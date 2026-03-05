@@ -157,7 +157,7 @@ F1/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/F1.git
+git clone https://github.com/isthatpaul/F1.git
 cd F1
 ```
 
