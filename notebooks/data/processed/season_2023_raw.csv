@@ -1,0 +1,920 @@
+Year,Round,Race,Date,DriverFull,Driver,Team,Position,GridPosition,Points,Status,Time,DNF,Podium
+2023,1,Bahrain Grand Prix,2023-03-05,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:33:56.736000,False,True
+2023,1,Bahrain Grand Prix,2023-03-05,Sergio Perez,PER,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:11.987000,False,True
+2023,1,Bahrain Grand Prix,2023-03-05,Fernando Alonso,ALO,Aston Martin,3.0,5.0,15.0,Finished,0 days 00:00:38.637000,False,True
+2023,1,Bahrain Grand Prix,2023-03-05,Carlos Sainz,SAI,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:48.052000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Lewis Hamilton,HAM,Mercedes,5.0,7.0,10.0,Finished,0 days 00:00:50.977000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Lance Stroll,STR,Aston Martin,6.0,8.0,8.0,Finished,0 days 00:00:54.502000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,George Russell,RUS,Mercedes,7.0,6.0,6.0,Finished,0 days 00:00:55.873000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Valtteri Bottas,BOT,Alfa Romeo,8.0,12.0,4.0,Finished,0 days 00:01:12.647000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Pierre Gasly,GAS,Alpine,9.0,20.0,2.0,Finished,0 days 00:01:13.753000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Alexander Albon,ALB,Williams,10.0,15.0,1.0,Finished,0 days 00:01:29.774000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Yuki Tsunoda,TSU,AlphaTauri,11.0,14.0,0.0,Finished,0 days 00:01:30.870000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Logan Sargeant,SAR,Williams,12.0,16.0,0.0,Lapped,0 days 00:00:01.136000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Kevin Magnussen,MAG,Haas F1 Team,13.0,17.0,0.0,Lapped,0 days 00:00:16.757000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Nyck De Vries,DEV,AlphaTauri,14.0,19.0,0.0,Lapped,0 days 00:00:22.523000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Nico Hulkenberg,HUL,Haas F1 Team,15.0,10.0,0.0,Lapped,0 days 00:00:38.911000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Guanyu Zhou,ZHO,Alfa Romeo,16.0,13.0,0.0,Lapped,0 days 00:00:39.649000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Lando Norris,NOR,McLaren,17.0,11.0,0.0,Lapped,0 days 00:00:06.636000,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Esteban Ocon,OCO,Alpine,18.0,9.0,0.0,Retired,,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Charles Leclerc,LEC,Ferrari,19.0,3.0,0.0,Retired,,False,False
+2023,1,Bahrain Grand Prix,2023-03-05,Oscar Piastri,PIA,McLaren,20.0,18.0,0.0,Retired,,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Sergio Perez,PER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:21:14.894000,False,True
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Max Verstappen,VER,Red Bull Racing,2.0,15.0,19.0,Finished,0 days 00:00:05.355000,False,True
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Fernando Alonso,ALO,Aston Martin,3.0,2.0,15.0,Finished,0 days 00:00:20.728000,False,True
+2023,2,Saudi Arabian Grand Prix,2023-03-19,George Russell,RUS,Mercedes,4.0,3.0,12.0,Finished,0 days 00:00:25.866000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lewis Hamilton,HAM,Mercedes,5.0,7.0,10.0,Finished,0 days 00:00:31.065000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Carlos Sainz,SAI,Ferrari,6.0,4.0,8.0,Finished,0 days 00:00:35.876000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Charles Leclerc,LEC,Ferrari,7.0,12.0,6.0,Finished,0 days 00:00:43.162000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Esteban Ocon,OCO,Alpine,8.0,6.0,4.0,Finished,0 days 00:00:52.832000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Pierre Gasly,GAS,Alpine,9.0,9.0,2.0,Finished,0 days 00:00:54.747000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Kevin Magnussen,MAG,Haas F1 Team,10.0,13.0,1.0,Finished,0 days 00:01:04.826000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Yuki Tsunoda,TSU,AlphaTauri,11.0,16.0,0.0,Finished,0 days 00:01:07.494000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Nico Hulkenberg,HUL,Haas F1 Team,12.0,10.0,0.0,Finished,0 days 00:01:10.588000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Guanyu Zhou,ZHO,Alfa Romeo,13.0,11.0,0.0,Finished,0 days 00:01:16.060000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Nyck De Vries,DEV,AlphaTauri,14.0,18.0,0.0,Finished,0 days 00:01:17.478000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Oscar Piastri,PIA,McLaren,15.0,8.0,0.0,Finished,0 days 00:01:25.021000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Logan Sargeant,SAR,Williams,16.0,20.0,0.0,Finished,0 days 00:01:26.293000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lando Norris,NOR,McLaren,17.0,19.0,0.0,Finished,0 days 00:01:26.445000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Valtteri Bottas,BOT,Alfa Romeo,18.0,14.0,0.0,Lapped,0 days 00:00:29.584000,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Alexander Albon,ALB,Williams,19.0,17.0,0.0,Retired,,False,False
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lance Stroll,STR,Aston Martin,20.0,5.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 02:32:38.371000,False,True
+2023,3,Australian Grand Prix,2023-04-02,Lewis Hamilton,HAM,Mercedes,2.0,3.0,18.0,Finished,0 days 00:00:00.179000,False,True
+2023,3,Australian Grand Prix,2023-04-02,Fernando Alonso,ALO,Aston Martin,3.0,4.0,15.0,Finished,0 days 00:00:00.769000,False,True
+2023,3,Australian Grand Prix,2023-04-02,Lance Stroll,STR,Aston Martin,4.0,6.0,12.0,Finished,0 days 00:00:03.082000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Sergio Perez,PER,Red Bull Racing,5.0,20.0,11.0,Finished,0 days 00:00:03.320000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Lando Norris,NOR,McLaren,6.0,13.0,8.0,Finished,0 days 00:00:03.701000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Nico Hulkenberg,HUL,Haas F1 Team,7.0,10.0,6.0,Finished,0 days 00:00:04.939000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Oscar Piastri,PIA,McLaren,8.0,16.0,4.0,Finished,0 days 00:00:05.382000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Guanyu Zhou,ZHO,Alfa Romeo,9.0,17.0,2.0,Finished,0 days 00:00:05.713000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Yuki Tsunoda,TSU,AlphaTauri,10.0,12.0,1.0,Finished,0 days 00:00:06.052000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Valtteri Bottas,BOT,Alfa Romeo,11.0,19.0,0.0,Finished,0 days 00:00:06.513000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Carlos Sainz,SAI,Ferrari,12.0,5.0,0.0,Finished,0 days 00:00:06.594000,False,False
+2023,3,Australian Grand Prix,2023-04-02,Pierre Gasly,GAS,Alpine,13.0,9.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,Esteban Ocon,OCO,Alpine,14.0,11.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,Nyck De Vries,DEV,AlphaTauri,15.0,15.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,Logan Sargeant,SAR,Williams,16.0,18.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,Kevin Magnussen,MAG,Haas F1 Team,17.0,14.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,George Russell,RUS,Mercedes,18.0,2.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,Alexander Albon,ALB,Williams,19.0,8.0,0.0,Retired,,False,False
+2023,3,Australian Grand Prix,2023-04-02,Charles Leclerc,LEC,Ferrari,20.0,7.0,0.0,Retired,,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Sergio Perez,PER,Red Bull Racing,1.0,3.0,25.0,Finished,0 days 01:32:42.436000,False,True
+2023,4,Azerbaijan Grand Prix,2023-04-30,Max Verstappen,VER,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:02.137000,False,True
+2023,4,Azerbaijan Grand Prix,2023-04-30,Charles Leclerc,LEC,Ferrari,3.0,1.0,15.0,Finished,0 days 00:00:21.217000,False,True
+2023,4,Azerbaijan Grand Prix,2023-04-30,Fernando Alonso,ALO,Aston Martin,4.0,6.0,12.0,Finished,0 days 00:00:22.024000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Carlos Sainz,SAI,Ferrari,5.0,4.0,10.0,Finished,0 days 00:00:45.491000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lewis Hamilton,HAM,Mercedes,6.0,5.0,8.0,Finished,0 days 00:00:46.145000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lance Stroll,STR,Aston Martin,7.0,9.0,6.0,Finished,0 days 00:00:51.617000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,George Russell,RUS,Mercedes,8.0,11.0,5.0,Finished,0 days 00:01:14.240000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lando Norris,NOR,McLaren,9.0,7.0,2.0,Finished,0 days 00:01:20.376000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Yuki Tsunoda,TSU,AlphaTauri,10.0,8.0,1.0,Finished,0 days 00:01:23.862000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Oscar Piastri,PIA,McLaren,11.0,10.0,0.0,Finished,0 days 00:01:26.501000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Alexander Albon,ALB,Williams,12.0,12.0,0.0,Finished,0 days 00:01:28.623000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Kevin Magnussen,MAG,Haas F1 Team,13.0,16.0,0.0,Finished,0 days 00:01:29.729000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Pierre Gasly,GAS,Alpine,14.0,17.0,0.0,Finished,0 days 00:01:31.332000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Esteban Ocon,OCO,Alpine,15.0,19.0,0.0,Finished,0 days 00:01:37.794000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Logan Sargeant,SAR,Williams,16.0,14.0,0.0,Finished,0 days 00:01:40.943000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Nico Hulkenberg,HUL,Haas F1 Team,17.0,20.0,0.0,Lapped,0 days 00:00:09.937000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Valtteri Bottas,BOT,Alfa Romeo,18.0,13.0,0.0,Lapped,0 days 00:00:19.098000,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Guanyu Zhou,ZHO,Alfa Romeo,19.0,15.0,0.0,Retired,,False,False
+2023,4,Azerbaijan Grand Prix,2023-04-30,Nyck De Vries,DEV,AlphaTauri,20.0,18.0,0.0,Retired,,False,False
+2023,5,Miami Grand Prix,2023-05-07,Max Verstappen,VER,Red Bull Racing,1.0,9.0,26.0,Finished,0 days 01:27:38.241000,False,True
+2023,5,Miami Grand Prix,2023-05-07,Sergio Perez,PER,Red Bull Racing,2.0,1.0,18.0,Finished,0 days 00:00:05.384000,False,True
+2023,5,Miami Grand Prix,2023-05-07,Fernando Alonso,ALO,Aston Martin,3.0,2.0,15.0,Finished,0 days 00:00:26.305000,False,True
+2023,5,Miami Grand Prix,2023-05-07,George Russell,RUS,Mercedes,4.0,6.0,12.0,Finished,0 days 00:00:33.229000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Carlos Sainz,SAI,Ferrari,5.0,3.0,10.0,Finished,0 days 00:00:42.511000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Lewis Hamilton,HAM,Mercedes,6.0,13.0,8.0,Finished,0 days 00:00:51.249000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Charles Leclerc,LEC,Ferrari,7.0,7.0,6.0,Finished,0 days 00:00:52.988000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Pierre Gasly,GAS,Alpine,8.0,5.0,4.0,Finished,0 days 00:00:55.670000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Esteban Ocon,OCO,Alpine,9.0,8.0,2.0,Finished,0 days 00:00:58.123000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Kevin Magnussen,MAG,Haas F1 Team,10.0,4.0,1.0,Finished,0 days 00:01:02.945000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Yuki Tsunoda,TSU,AlphaTauri,11.0,17.0,0.0,Finished,0 days 00:01:04.309000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Lance Stroll,STR,Aston Martin,12.0,18.0,0.0,Finished,0 days 00:01:04.754000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Valtteri Bottas,BOT,Alfa Romeo,13.0,10.0,0.0,Finished,0 days 00:01:11.637000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Alexander Albon,ALB,Williams,14.0,11.0,0.0,Finished,0 days 00:01:12.861000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Nico Hulkenberg,HUL,Haas F1 Team,15.0,12.0,0.0,Finished,0 days 00:01:14.950000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Guanyu Zhou,ZHO,Alfa Romeo,16.0,14.0,0.0,Finished,0 days 00:01:18.440000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Lando Norris,NOR,McLaren,17.0,16.0,0.0,Finished,0 days 00:01:27.717000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Nyck De Vries,DEV,AlphaTauri,18.0,15.0,0.0,Finished,0 days 00:01:28.949000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Oscar Piastri,PIA,McLaren,19.0,19.0,0.0,Lapped,0 days 00:00:20.510000,False,False
+2023,5,Miami Grand Prix,2023-05-07,Logan Sargeant,SAR,Williams,20.0,20.0,0.0,Lapped,0 days 00:00:34.388000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:48:51.980000,False,True
+2023,6,Monaco Grand Prix,2023-05-28,Fernando Alonso,ALO,Aston Martin,2.0,2.0,18.0,Finished,0 days 00:00:27.921000,False,True
+2023,6,Monaco Grand Prix,2023-05-28,Esteban Ocon,OCO,Alpine,3.0,3.0,15.0,Finished,0 days 00:00:36.990000,False,True
+2023,6,Monaco Grand Prix,2023-05-28,Lewis Hamilton,HAM,Mercedes,4.0,5.0,13.0,Finished,0 days 00:00:39.062000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,George Russell,RUS,Mercedes,5.0,8.0,10.0,Finished,0 days 00:00:56.284000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Charles Leclerc,LEC,Ferrari,6.0,6.0,8.0,Finished,0 days 00:01:01.890000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Pierre Gasly,GAS,Alpine,7.0,7.0,6.0,Finished,0 days 00:01:02.362000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Carlos Sainz,SAI,Ferrari,8.0,4.0,4.0,Finished,0 days 00:01:03.391000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Lando Norris,NOR,McLaren,9.0,10.0,2.0,Lapped,0 days 00:00:04.061000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Oscar Piastri,PIA,McLaren,10.0,11.0,1.0,Lapped,0 days 00:00:13.959000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Valtteri Bottas,BOT,Alfa Romeo,11.0,15.0,0.0,Lapped,0 days 00:00:28.963000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Nyck De Vries,DEV,AlphaTauri,12.0,12.0,0.0,Lapped,0 days 00:00:57.317000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Guanyu Zhou,ZHO,Alfa Romeo,13.0,19.0,0.0,Lapped,0 days 00:01:11.852000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Alexander Albon,ALB,Williams,14.0,13.0,0.0,Lapped,0 days 00:01:19.210000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Yuki Tsunoda,TSU,AlphaTauri,15.0,9.0,0.0,Lapped,0 days 00:00:07.545000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Sergio Perez,PER,Red Bull Racing,16.0,20.0,0.0,Lapped,0 days 00:00:49.024000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Nico Hulkenberg,HUL,Haas F1 Team,17.0,18.0,0.0,Lapped,0 days 00:00:58.506000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Logan Sargeant,SAR,Williams,18.0,16.0,0.0,Lapped,0 days 00:01:17.983000,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Kevin Magnussen,MAG,Haas F1 Team,19.0,17.0,0.0,Retired,,False,False
+2023,6,Monaco Grand Prix,2023-05-28,Lance Stroll,STR,Aston Martin,20.0,14.0,0.0,Retired,,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:27:57.940000,False,True
+2023,7,Spanish Grand Prix,2023-06-04,Lewis Hamilton,HAM,Mercedes,2.0,4.0,18.0,Finished,0 days 00:00:24.090000,False,True
+2023,7,Spanish Grand Prix,2023-06-04,George Russell,RUS,Mercedes,3.0,12.0,15.0,Finished,0 days 00:00:32.389000,False,True
+2023,7,Spanish Grand Prix,2023-06-04,Sergio Perez,PER,Red Bull Racing,4.0,11.0,12.0,Finished,0 days 00:00:35.812000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Carlos Sainz,SAI,Ferrari,5.0,2.0,10.0,Finished,0 days 00:00:45.698000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Lance Stroll,STR,Aston Martin,6.0,5.0,8.0,Finished,0 days 00:01:03.320000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Fernando Alonso,ALO,Aston Martin,7.0,8.0,6.0,Finished,0 days 00:01:04.127000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Esteban Ocon,OCO,Alpine,8.0,6.0,4.0,Finished,0 days 00:01:09.242000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Guanyu Zhou,ZHO,Alfa Romeo,9.0,13.0,2.0,Finished,0 days 00:01:11.878000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Pierre Gasly,GAS,Alpine,10.0,10.0,1.0,Finished,0 days 00:01:13.530000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Charles Leclerc,LEC,Ferrari,11.0,19.0,0.0,Finished,0 days 00:01:14.419000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Yuki Tsunoda,TSU,AlphaTauri,12.0,15.0,0.0,Finished,0 days 00:01:15.416000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Oscar Piastri,PIA,McLaren,13.0,9.0,0.0,Lapped,0 days 00:00:04.275000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Nyck De Vries,DEV,AlphaTauri,14.0,14.0,0.0,Lapped,0 days 00:00:05.327000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Nico Hulkenberg,HUL,Haas F1 Team,15.0,7.0,0.0,Lapped,0 days 00:00:17.297000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Alexander Albon,ALB,Williams,16.0,18.0,0.0,Lapped,0 days 00:00:27.708000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Lando Norris,NOR,McLaren,17.0,3.0,0.0,Lapped,0 days 00:00:30.390000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Kevin Magnussen,MAG,Haas F1 Team,18.0,17.0,0.0,Lapped,0 days 00:00:38.080000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Valtteri Bottas,BOT,Alfa Romeo,19.0,16.0,0.0,Lapped,0 days 00:00:49.943000,False,False
+2023,7,Spanish Grand Prix,2023-06-04,Logan Sargeant,SAR,Williams,20.0,20.0,0.0,Lapped,0 days 00:00:51.677000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:33:58.348000,False,True
+2023,8,Canadian Grand Prix,2023-06-18,Fernando Alonso,ALO,Aston Martin,2.0,2.0,18.0,Finished,0 days 00:00:09.570000,False,True
+2023,8,Canadian Grand Prix,2023-06-18,Lewis Hamilton,HAM,Mercedes,3.0,3.0,15.0,Finished,0 days 00:00:14.168000,False,True
+2023,8,Canadian Grand Prix,2023-06-18,Charles Leclerc,LEC,Ferrari,4.0,10.0,12.0,Finished,0 days 00:00:18.648000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Carlos Sainz,SAI,Ferrari,5.0,11.0,10.0,Finished,0 days 00:00:21.540000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Sergio Perez,PER,Red Bull Racing,6.0,12.0,9.0,Finished,0 days 00:00:51.028000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Alexander Albon,ALB,Williams,7.0,9.0,6.0,Finished,0 days 00:01:00.813000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Esteban Ocon,OCO,Alpine,8.0,6.0,4.0,Finished,0 days 00:01:01.692000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Lance Stroll,STR,Aston Martin,9.0,16.0,2.0,Finished,0 days 00:01:04.402000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Valtteri Bottas,BOT,Alfa Romeo,10.0,14.0,1.0,Finished,0 days 00:01:04.432000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Oscar Piastri,PIA,McLaren,11.0,8.0,0.0,Finished,0 days 00:01:05.101000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Pierre Gasly,GAS,Alpine,12.0,15.0,0.0,Finished,0 days 00:01:05.249000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Lando Norris,NOR,McLaren,13.0,7.0,0.0,Finished,0 days 00:01:08.363000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Yuki Tsunoda,TSU,AlphaTauri,14.0,19.0,0.0,Finished,0 days 00:01:13.423000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Nico Hulkenberg,HUL,Haas F1 Team,15.0,5.0,0.0,Lapped,0 days 00:00:16.943000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Guanyu Zhou,ZHO,Alfa Romeo,16.0,20.0,0.0,Lapped,0 days 00:00:17.377000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Kevin Magnussen,MAG,Haas F1 Team,17.0,13.0,0.0,Lapped,0 days 00:01:10.259000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Nyck De Vries,DEV,AlphaTauri,18.0,17.0,0.0,Lapped,0 days 00:01:14.967000,False,False
+2023,8,Canadian Grand Prix,2023-06-18,George Russell,RUS,Mercedes,19.0,4.0,0.0,Retired,,False,False
+2023,8,Canadian Grand Prix,2023-06-18,Logan Sargeant,SAR,Williams,20.0,18.0,0.0,Retired,,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:25:33.607000,False,True
+2023,9,Austrian Grand Prix,2023-07-02,Charles Leclerc,LEC,Ferrari,2.0,2.0,18.0,Finished,0 days 00:00:05.155000,False,True
+2023,9,Austrian Grand Prix,2023-07-02,Sergio Perez,PER,Red Bull Racing,3.0,15.0,15.0,Finished,0 days 00:00:17.188000,False,True
+2023,9,Austrian Grand Prix,2023-07-02,Lando Norris,NOR,McLaren,4.0,4.0,12.0,Finished,0 days 00:00:26.327000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Fernando Alonso,ALO,Aston Martin,5.0,7.0,10.0,Finished,0 days 00:00:30.317000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Carlos Sainz,SAI,Ferrari,6.0,3.0,8.0,Finished,0 days 00:00:31.377000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,George Russell,RUS,Mercedes,7.0,11.0,6.0,Finished,0 days 00:00:48.403000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Lewis Hamilton,HAM,Mercedes,8.0,5.0,4.0,Finished,0 days 00:00:49.196000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Lance Stroll,STR,Aston Martin,9.0,6.0,2.0,Finished,0 days 00:00:59.043000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Pierre Gasly,GAS,Alpine,10.0,9.0,1.0,Finished,0 days 00:01:07.667000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Alexander Albon,ALB,Williams,11.0,10.0,0.0,Finished,0 days 00:01:19.767000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Guanyu Zhou,ZHO,Alfa Romeo,12.0,17.0,0.0,Lapped,0 days 00:00:24.633000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Logan Sargeant,SAR,Williams,13.0,18.0,0.0,Lapped,0 days 00:00:31.384000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Esteban Ocon,OCO,Alpine,14.0,12.0,0.0,Lapped,0 days 00:00:42.140000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Valtteri Bottas,BOT,Alfa Romeo,15.0,14.0,0.0,Lapped,0 days 00:00:42.777000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Oscar Piastri,PIA,McLaren,16.0,13.0,0.0,Lapped,0 days 00:00:46.569000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Nyck De Vries,DEV,AlphaTauri,17.0,20.0,0.0,Lapped,0 days 00:00:49.703000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Kevin Magnussen,MAG,Haas F1 Team,18.0,19.0,0.0,Lapped,0 days 00:00:56.653000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Yuki Tsunoda,TSU,AlphaTauri,19.0,16.0,0.0,Lapped,0 days 00:00:59.873000,False,False
+2023,9,Austrian Grand Prix,2023-07-02,Nico Hulkenberg,HUL,Haas F1 Team,20.0,8.0,0.0,Retired,,False,False
+2023,10,British Grand Prix,2023-07-09,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:25:16.938000,False,True
+2023,10,British Grand Prix,2023-07-09,Lando Norris,NOR,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:03.798000,False,True
+2023,10,British Grand Prix,2023-07-09,Lewis Hamilton,HAM,Mercedes,3.0,7.0,15.0,Finished,0 days 00:00:06.783000,False,True
+2023,10,British Grand Prix,2023-07-09,Oscar Piastri,PIA,McLaren,4.0,3.0,12.0,Finished,0 days 00:00:07.776000,False,False
+2023,10,British Grand Prix,2023-07-09,George Russell,RUS,Mercedes,5.0,6.0,10.0,Finished,0 days 00:00:11.206000,False,False
+2023,10,British Grand Prix,2023-07-09,Sergio Perez,PER,Red Bull Racing,6.0,15.0,8.0,Finished,0 days 00:00:12.882000,False,False
+2023,10,British Grand Prix,2023-07-09,Fernando Alonso,ALO,Aston Martin,7.0,9.0,6.0,Finished,0 days 00:00:17.193000,False,False
+2023,10,British Grand Prix,2023-07-09,Alexander Albon,ALB,Williams,8.0,8.0,4.0,Finished,0 days 00:00:17.878000,False,False
+2023,10,British Grand Prix,2023-07-09,Charles Leclerc,LEC,Ferrari,9.0,4.0,2.0,Finished,0 days 00:00:18.689000,False,False
+2023,10,British Grand Prix,2023-07-09,Carlos Sainz,SAI,Ferrari,10.0,5.0,1.0,Finished,0 days 00:00:19.448000,False,False
+2023,10,British Grand Prix,2023-07-09,Logan Sargeant,SAR,Williams,11.0,14.0,0.0,Finished,0 days 00:00:23.632000,False,False
+2023,10,British Grand Prix,2023-07-09,Valtteri Bottas,BOT,Alfa Romeo,12.0,20.0,0.0,Finished,0 days 00:00:25.830000,False,False
+2023,10,British Grand Prix,2023-07-09,Nico Hulkenberg,HUL,Haas F1 Team,13.0,11.0,0.0,Finished,0 days 00:00:26.663000,False,False
+2023,10,British Grand Prix,2023-07-09,Lance Stroll,STR,Aston Martin,14.0,12.0,0.0,Finished,0 days 00:00:27.483000,False,False
+2023,10,British Grand Prix,2023-07-09,Guanyu Zhou,ZHO,Alfa Romeo,15.0,17.0,0.0,Finished,0 days 00:00:29.820000,False,False
+2023,10,British Grand Prix,2023-07-09,Yuki Tsunoda,TSU,AlphaTauri,16.0,16.0,0.0,Finished,0 days 00:00:31.225000,False,False
+2023,10,British Grand Prix,2023-07-09,Nyck De Vries,DEV,AlphaTauri,17.0,18.0,0.0,Finished,0 days 00:00:33.128000,False,False
+2023,10,British Grand Prix,2023-07-09,Pierre Gasly,GAS,Alpine,18.0,10.0,0.0,Retired,,False,False
+2023,10,British Grand Prix,2023-07-09,Kevin Magnussen,MAG,Haas F1 Team,19.0,19.0,0.0,Retired,,False,False
+2023,10,British Grand Prix,2023-07-09,Esteban Ocon,OCO,Alpine,20.0,13.0,0.0,Retired,,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Max Verstappen,VER,Red Bull Racing,1.0,2.0,26.0,Finished,0 days 01:38:08.634000,False,True
+2023,11,Hungarian Grand Prix,2023-07-23,Lando Norris,NOR,McLaren,2.0,3.0,18.0,Finished,0 days 00:00:33.731000,False,True
+2023,11,Hungarian Grand Prix,2023-07-23,Sergio Perez,PER,Red Bull Racing,3.0,9.0,15.0,Finished,0 days 00:00:37.603000,False,True
+2023,11,Hungarian Grand Prix,2023-07-23,Lewis Hamilton,HAM,Mercedes,4.0,1.0,12.0,Finished,0 days 00:00:39.134000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Oscar Piastri,PIA,McLaren,5.0,4.0,10.0,Finished,0 days 00:01:02.572000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,George Russell,RUS,Mercedes,6.0,18.0,8.0,Finished,0 days 00:01:05.825000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Charles Leclerc,LEC,Ferrari,7.0,6.0,6.0,Finished,0 days 00:01:10.317000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Carlos Sainz,SAI,Ferrari,8.0,11.0,4.0,Finished,0 days 00:01:11.073000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Fernando Alonso,ALO,Aston Martin,9.0,8.0,2.0,Finished,0 days 00:01:15.709000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Lance Stroll,STR,Aston Martin,10.0,14.0,1.0,Lapped,0 days 00:00:14.615000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Alexander Albon,ALB,Williams,11.0,16.0,0.0,Lapped,0 days 00:00:29.087000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Valtteri Bottas,BOT,Alfa Romeo,12.0,7.0,0.0,Lapped,0 days 00:00:30.079000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Daniel Ricciardo,RIC,AlphaTauri,13.0,13.0,0.0,Lapped,0 days 00:00:36.257000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Nico Hulkenberg,HUL,Haas F1 Team,14.0,10.0,0.0,Lapped,0 days 00:00:51.298000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Yuki Tsunoda,TSU,AlphaTauri,15.0,17.0,0.0,Lapped,0 days 00:00:51.543000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Guanyu Zhou,ZHO,Alfa Romeo,16.0,5.0,0.0,Lapped,0 days 00:01:00.491000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Kevin Magnussen,MAG,Haas F1 Team,17.0,19.0,0.0,Lapped,0 days 00:01:22.351000,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Logan Sargeant,SAR,Williams,18.0,20.0,0.0,Retired,,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Esteban Ocon,OCO,Alpine,19.0,12.0,0.0,Retired,,False,False
+2023,11,Hungarian Grand Prix,2023-07-23,Pierre Gasly,GAS,Alpine,20.0,15.0,0.0,Retired,,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Max Verstappen,VER,Red Bull Racing,1.0,6.0,25.0,Finished,0 days 01:22:30.450000,False,True
+2023,12,Belgian Grand Prix,2023-07-30,Sergio Perez,PER,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:22.305000,False,True
+2023,12,Belgian Grand Prix,2023-07-30,Charles Leclerc,LEC,Ferrari,3.0,1.0,15.0,Finished,0 days 00:00:32.259000,False,True
+2023,12,Belgian Grand Prix,2023-07-30,Lewis Hamilton,HAM,Mercedes,4.0,3.0,13.0,Finished,0 days 00:00:49.671000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Fernando Alonso,ALO,Aston Martin,5.0,9.0,10.0,Finished,0 days 00:00:56.184000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,George Russell,RUS,Mercedes,6.0,8.0,8.0,Finished,0 days 00:01:03.101000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Lando Norris,NOR,McLaren,7.0,7.0,6.0,Finished,0 days 00:01:13.719000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Esteban Ocon,OCO,Alpine,8.0,14.0,4.0,Finished,0 days 00:01:14.719000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Lance Stroll,STR,Aston Martin,9.0,10.0,2.0,Finished,0 days 00:01:19.340000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Yuki Tsunoda,TSU,AlphaTauri,10.0,11.0,1.0,Finished,0 days 00:01:20.221000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Pierre Gasly,GAS,Alpine,11.0,12.0,0.0,Finished,0 days 00:01:23.084000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Valtteri Bottas,BOT,Alfa Romeo,12.0,13.0,0.0,Finished,0 days 00:01:25.191000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Guanyu Zhou,ZHO,Alfa Romeo,13.0,17.0,0.0,Finished,0 days 00:01:35.441000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Alexander Albon,ALB,Williams,14.0,15.0,0.0,Finished,0 days 00:01:36.184000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Kevin Magnussen,MAG,Haas F1 Team,15.0,16.0,0.0,Finished,0 days 00:01:41.754000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Daniel Ricciardo,RIC,AlphaTauri,16.0,19.0,0.0,Finished,0 days 00:01:43.071000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Logan Sargeant,SAR,Williams,17.0,18.0,0.0,Finished,0 days 00:01:44.476000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Nico Hulkenberg,HUL,Haas F1 Team,18.0,20.0,0.0,Finished,0 days 00:01:50.450000,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Carlos Sainz,SAI,Ferrari,19.0,4.0,0.0,Retired,,False,False
+2023,12,Belgian Grand Prix,2023-07-30,Oscar Piastri,PIA,McLaren,20.0,5.0,0.0,Retired,,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 02:24:04.411000,False,True
+2023,13,Dutch Grand Prix,2023-08-27,Fernando Alonso,ALO,Aston Martin,2.0,5.0,19.0,Finished,0 days 00:00:03.744000,False,True
+2023,13,Dutch Grand Prix,2023-08-27,Pierre Gasly,GAS,Alpine,3.0,12.0,15.0,Finished,0 days 00:00:07.058000,False,True
+2023,13,Dutch Grand Prix,2023-08-27,Sergio Perez,PER,Red Bull Racing,4.0,7.0,12.0,Finished,0 days 00:00:10.068000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Carlos Sainz,SAI,Ferrari,5.0,6.0,10.0,Finished,0 days 00:00:12.541000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Lewis Hamilton,HAM,Mercedes,6.0,13.0,8.0,Finished,0 days 00:00:13.209000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Lando Norris,NOR,McLaren,7.0,2.0,6.0,Finished,0 days 00:00:13.232000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Alexander Albon,ALB,Williams,8.0,4.0,4.0,Finished,0 days 00:00:15.155000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Oscar Piastri,PIA,McLaren,9.0,8.0,2.0,Finished,0 days 00:00:16.580000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Esteban Ocon,OCO,Alpine,10.0,16.0,1.0,Finished,0 days 00:00:18.346000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Lance Stroll,STR,Aston Martin,11.0,11.0,0.0,Finished,0 days 00:00:20.087000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Nico Hulkenberg,HUL,Haas F1 Team,12.0,14.0,0.0,Finished,0 days 00:00:20.840000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Liam Lawson,LAW,AlphaTauri,13.0,19.0,0.0,Finished,0 days 00:00:26.147000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Valtteri Bottas,BOT,Alfa Romeo,14.0,18.0,0.0,Finished,0 days 00:00:27.388000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Yuki Tsunoda,TSU,AlphaTauri,15.0,17.0,0.0,Finished,0 days 00:00:29.893000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Kevin Magnussen,MAG,Haas F1 Team,16.0,0.0,0.0,Finished,0 days 00:00:31.410000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,George Russell,RUS,Mercedes,17.0,3.0,0.0,Finished,0 days 00:00:55.754000,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Guanyu Zhou,ZHO,Alfa Romeo,18.0,15.0,0.0,Accident,,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Charles Leclerc,LEC,Ferrari,19.0,9.0,0.0,Undertray,,False,False
+2023,13,Dutch Grand Prix,2023-08-27,Logan Sargeant,SAR,Williams,20.0,10.0,0.0,Accident,,False,False
+2023,14,Italian Grand Prix,2023-09-03,Max Verstappen,VER,Red Bull Racing,1.0,2.0,25.0,Finished,0 days 01:13:41.143000,False,True
+2023,14,Italian Grand Prix,2023-09-03,Sergio Perez,PER,Red Bull Racing,2.0,5.0,18.0,Finished,0 days 00:00:06.064000,False,True
+2023,14,Italian Grand Prix,2023-09-03,Carlos Sainz,SAI,Ferrari,3.0,1.0,15.0,Finished,0 days 00:00:11.193000,False,True
+2023,14,Italian Grand Prix,2023-09-03,Charles Leclerc,LEC,Ferrari,4.0,3.0,12.0,Finished,0 days 00:00:11.377000,False,False
+2023,14,Italian Grand Prix,2023-09-03,George Russell,RUS,Mercedes,5.0,4.0,10.0,Finished,0 days 00:00:23.028000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Lewis Hamilton,HAM,Mercedes,6.0,8.0,8.0,Finished,0 days 00:00:42.679000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Alexander Albon,ALB,Williams,7.0,6.0,6.0,Finished,0 days 00:00:45.106000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Lando Norris,NOR,McLaren,8.0,9.0,4.0,Finished,0 days 00:00:45.449000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Fernando Alonso,ALO,Aston Martin,9.0,10.0,2.0,Finished,0 days 00:00:46.294000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Valtteri Bottas,BOT,Alfa Romeo,10.0,14.0,1.0,Finished,0 days 00:01:04.056000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Liam Lawson,LAW,AlphaTauri,11.0,12.0,0.0,Finished,0 days 00:01:10.638000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Oscar Piastri,PIA,McLaren,12.0,7.0,0.0,Finished,0 days 00:01:13.074000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Logan Sargeant,SAR,Williams,13.0,15.0,0.0,Finished,0 days 00:01:18.557000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Guanyu Zhou,ZHO,Alfa Romeo,14.0,16.0,0.0,Finished,0 days 00:01:20.164000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Pierre Gasly,GAS,Alpine,15.0,17.0,0.0,Finished,0 days 00:01:22.510000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Lance Stroll,STR,Aston Martin,16.0,20.0,0.0,Finished,0 days 00:01:27.266000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Nico Hulkenberg,HUL,Haas F1 Team,17.0,13.0,0.0,Lapped,0 days 00:00:02.093000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Kevin Magnussen,MAG,Haas F1 Team,18.0,19.0,0.0,Lapped,0 days 00:00:12.624000,False,False
+2023,14,Italian Grand Prix,2023-09-03,Esteban Ocon,OCO,Alpine,19.0,18.0,0.0,Retired,,False,False
+2023,14,Italian Grand Prix,2023-09-03,Yuki Tsunoda,TSU,AlphaTauri,20.0,11.0,0.0,Did not start,,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Carlos Sainz,SAI,Ferrari,1.0,1.0,25.0,Finished,0 days 01:46:37.418000,False,True
+2023,15,Singapore Grand Prix,2023-09-17,Lando Norris,NOR,McLaren,2.0,4.0,18.0,Finished,0 days 00:00:00.812000,False,True
+2023,15,Singapore Grand Prix,2023-09-17,Lewis Hamilton,HAM,Mercedes,3.0,5.0,16.0,Finished,0 days 00:00:01.269000,False,True
+2023,15,Singapore Grand Prix,2023-09-17,Charles Leclerc,LEC,Ferrari,4.0,3.0,12.0,Finished,0 days 00:00:21.177000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Max Verstappen,VER,Red Bull Racing,5.0,11.0,10.0,Finished,0 days 00:00:21.441000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Pierre Gasly,GAS,Alpine,6.0,12.0,8.0,Finished,0 days 00:00:38.441000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Oscar Piastri,PIA,McLaren,7.0,17.0,6.0,Finished,0 days 00:00:41.479000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Sergio Perez,PER,Red Bull Racing,8.0,13.0,4.0,Finished,0 days 00:00:59.534000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Liam Lawson,LAW,AlphaTauri,9.0,10.0,2.0,Finished,0 days 00:01:05.918000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Kevin Magnussen,MAG,Haas F1 Team,10.0,6.0,1.0,Finished,0 days 00:01:12.116000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Alexander Albon,ALB,Williams,11.0,14.0,0.0,Finished,0 days 00:01:13.417000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Guanyu Zhou,ZHO,Alfa Romeo,12.0,19.0,0.0,Finished,0 days 00:01:23.649000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Nico Hulkenberg,HUL,Haas F1 Team,13.0,9.0,0.0,Finished,0 days 00:01:26.201000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Logan Sargeant,SAR,Williams,14.0,18.0,0.0,Finished,0 days 00:01:26.889000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Fernando Alonso,ALO,Aston Martin,15.0,7.0,0.0,Finished,0 days 00:01:27.603000,False,False
+2023,15,Singapore Grand Prix,2023-09-17,George Russell,RUS,Mercedes,16.0,2.0,0.0,Retired,,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Valtteri Bottas,BOT,Alfa Romeo,17.0,16.0,0.0,Retired,,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Esteban Ocon,OCO,Alpine,18.0,8.0,0.0,Retired,,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Yuki Tsunoda,TSU,AlphaTauri,19.0,15.0,0.0,Retired,,False,False
+2023,15,Singapore Grand Prix,2023-09-17,Lance Stroll,STR,Aston Martin,,,0.0,Withdrew,,True,False
+2023,16,Japanese Grand Prix,2023-09-24,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:30:58.421000,False,True
+2023,16,Japanese Grand Prix,2023-09-24,Lando Norris,NOR,McLaren,2.0,3.0,18.0,Finished,0 days 00:00:19.387000,False,True
+2023,16,Japanese Grand Prix,2023-09-24,Oscar Piastri,PIA,McLaren,3.0,2.0,15.0,Finished,0 days 00:00:36.494000,False,True
+2023,16,Japanese Grand Prix,2023-09-24,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:43.998000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Lewis Hamilton,HAM,Mercedes,5.0,7.0,10.0,Finished,0 days 00:00:49.376000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Carlos Sainz,SAI,Ferrari,6.0,6.0,8.0,Finished,0 days 00:00:50.221000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,George Russell,RUS,Mercedes,7.0,8.0,6.0,Finished,0 days 00:00:57.659000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Fernando Alonso,ALO,Aston Martin,8.0,10.0,4.0,Finished,0 days 00:01:14.725000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Esteban Ocon,OCO,Alpine,9.0,14.0,2.0,Finished,0 days 00:01:19.678000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Pierre Gasly,GAS,Alpine,10.0,12.0,1.0,Finished,0 days 00:01:23.155000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Liam Lawson,LAW,AlphaTauri,11.0,11.0,0.0,Lapped,0 days 00:00:03.089000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Yuki Tsunoda,TSU,AlphaTauri,12.0,9.0,0.0,Lapped,0 days 00:00:03.974000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Guanyu Zhou,ZHO,Alfa Romeo,13.0,19.0,0.0,Lapped,0 days 00:00:06.340000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Nico Hulkenberg,HUL,Haas F1 Team,14.0,18.0,0.0,Lapped,0 days 00:00:09.598000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Kevin Magnussen,MAG,Haas F1 Team,15.0,15.0,0.0,Lapped,0 days 00:00:29.570000,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Alexander Albon,ALB,Williams,16.0,13.0,0.0,Retired,,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Logan Sargeant,SAR,Williams,17.0,20.0,0.0,Retired,,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Lance Stroll,STR,Aston Martin,18.0,17.0,0.0,Retired,,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Sergio Perez,PER,Red Bull Racing,19.0,5.0,0.0,Retired,,False,False
+2023,16,Japanese Grand Prix,2023-09-24,Valtteri Bottas,BOT,Alfa Romeo,20.0,16.0,0.0,Retired,,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:27:39.168000,False,True
+2023,17,Qatar Grand Prix,2023-10-08,Oscar Piastri,PIA,McLaren,2.0,6.0,18.0,Finished,0 days 00:00:04.833000,False,True
+2023,17,Qatar Grand Prix,2023-10-08,Lando Norris,NOR,McLaren,3.0,10.0,15.0,Finished,0 days 00:00:05.969000,False,True
+2023,17,Qatar Grand Prix,2023-10-08,George Russell,RUS,Mercedes,4.0,2.0,12.0,Finished,0 days 00:00:34.119000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Charles Leclerc,LEC,Ferrari,5.0,5.0,10.0,Finished,0 days 00:00:38.976000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Fernando Alonso,ALO,Aston Martin,6.0,4.0,8.0,Finished,0 days 00:00:49.032000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Esteban Ocon,OCO,Alpine,7.0,8.0,6.0,Finished,0 days 00:01:02.390000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Valtteri Bottas,BOT,Alfa Romeo,8.0,9.0,4.0,Finished,0 days 00:01:06.563000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Guanyu Zhou,ZHO,Alfa Romeo,9.0,19.0,2.0,Finished,0 days 00:01:16.127000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Sergio Perez,PER,Red Bull Racing,10.0,20.0,1.0,Finished,0 days 00:01:20.181000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Lance Stroll,STR,Aston Martin,11.0,16.0,0.0,Finished,0 days 00:01:21.652000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Pierre Gasly,GAS,Alpine,12.0,7.0,0.0,Finished,0 days 00:01:22.300000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Alexander Albon,ALB,Williams,13.0,13.0,0.0,Finished,0 days 00:01:31.014000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Kevin Magnussen,MAG,Haas F1 Team,14.0,18.0,0.0,Lapped,0 days 00:00:01.246000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Yuki Tsunoda,TSU,AlphaTauri,15.0,11.0,0.0,Lapped,0 days 00:00:08.958000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Nico Hulkenberg,HUL,Haas F1 Team,16.0,14.0,0.0,Lapped,0 days 00:00:15.085000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Liam Lawson,LAW,AlphaTauri,17.0,17.0,0.0,Lapped,0 days 00:00:27.108000,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Logan Sargeant,SAR,Williams,18.0,15.0,0.0,Retired,,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Lewis Hamilton,HAM,Mercedes,19.0,3.0,0.0,Retired,,False,False
+2023,17,Qatar Grand Prix,2023-10-08,Carlos Sainz,SAI,Ferrari,20.0,12.0,0.0,Did not start,,False,False
+2023,18,United States Grand Prix,2023-10-22,Max Verstappen,VER,Red Bull Racing,1.0,6.0,25.0,Finished,0 days 01:35:21.362000,False,True
+2023,18,United States Grand Prix,2023-10-22,Lando Norris,NOR,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:10.730000,False,True
+2023,18,United States Grand Prix,2023-10-22,Carlos Sainz,SAI,Ferrari,3.0,4.0,15.0,Finished,0 days 00:00:15.134000,False,True
+2023,18,United States Grand Prix,2023-10-22,Sergio Perez,PER,Red Bull Racing,4.0,9.0,12.0,Finished,0 days 00:00:18.460000,False,False
+2023,18,United States Grand Prix,2023-10-22,George Russell,RUS,Mercedes,5.0,5.0,10.0,Finished,0 days 00:00:24.999000,False,False
+2023,18,United States Grand Prix,2023-10-22,Pierre Gasly,GAS,Alpine,6.0,7.0,8.0,Finished,0 days 00:00:47.996000,False,False
+2023,18,United States Grand Prix,2023-10-22,Lance Stroll,STR,Aston Martin,7.0,20.0,6.0,Finished,0 days 00:00:48.696000,False,False
+2023,18,United States Grand Prix,2023-10-22,Yuki Tsunoda,TSU,AlphaTauri,8.0,11.0,5.0,Finished,0 days 00:01:14.385000,False,False
+2023,18,United States Grand Prix,2023-10-22,Alexander Albon,ALB,Williams,9.0,15.0,2.0,Finished,0 days 00:01:26.714000,False,False
+2023,18,United States Grand Prix,2023-10-22,Logan Sargeant,SAR,Williams,10.0,16.0,1.0,Finished,0 days 00:01:27.998000,False,False
+2023,18,United States Grand Prix,2023-10-22,Nico Hulkenberg,HUL,Haas F1 Team,11.0,18.0,0.0,Finished,0 days 00:01:29.904000,False,False
+2023,18,United States Grand Prix,2023-10-22,Valtteri Bottas,BOT,Alfa Romeo,12.0,13.0,0.0,Finished,0 days 00:01:38.601000,False,False
+2023,18,United States Grand Prix,2023-10-22,Guanyu Zhou,ZHO,Alfa Romeo,13.0,12.0,0.0,Lapped,0 days 00:00:03.576000,False,False
+2023,18,United States Grand Prix,2023-10-22,Kevin Magnussen,MAG,Haas F1 Team,14.0,17.0,0.0,Lapped,0 days 00:00:08.072000,False,False
+2023,18,United States Grand Prix,2023-10-22,Daniel Ricciardo,RIC,AlphaTauri,15.0,14.0,0.0,Lapped,0 days 00:00:08.852000,False,False
+2023,18,United States Grand Prix,2023-10-22,Fernando Alonso,ALO,Aston Martin,16.0,19.0,0.0,Retired,,False,False
+2023,18,United States Grand Prix,2023-10-22,Oscar Piastri,PIA,McLaren,17.0,10.0,0.0,Retired,,False,False
+2023,18,United States Grand Prix,2023-10-22,Esteban Ocon,OCO,Alpine,18.0,8.0,0.0,Retired,,False,False
+2023,18,United States Grand Prix,2023-10-22,Lewis Hamilton,HAM,Mercedes,19.0,3.0,0.0,Disqualified,0 days 00:00:02.225000,False,False
+2023,18,United States Grand Prix,2023-10-22,Charles Leclerc,LEC,Ferrari,20.0,1.0,0.0,Disqualified,0 days 00:00:24.662000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Max Verstappen,VER,Red Bull Racing,1.0,3.0,25.0,Finished,0 days 02:02:30.814000,False,True
+2023,19,Mexico City Grand Prix,2023-10-29,Lewis Hamilton,HAM,Mercedes,2.0,6.0,19.0,Finished,0 days 00:00:13.875000,False,True
+2023,19,Mexico City Grand Prix,2023-10-29,Charles Leclerc,LEC,Ferrari,3.0,1.0,15.0,Finished,0 days 00:00:23.124000,False,True
+2023,19,Mexico City Grand Prix,2023-10-29,Carlos Sainz,SAI,Ferrari,4.0,2.0,12.0,Finished,0 days 00:00:27.154000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Lando Norris,NOR,McLaren,5.0,17.0,10.0,Finished,0 days 00:00:33.266000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,George Russell,RUS,Mercedes,6.0,8.0,8.0,Finished,0 days 00:00:41.020000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Daniel Ricciardo,RIC,AlphaTauri,7.0,4.0,6.0,Finished,0 days 00:00:41.570000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Oscar Piastri,PIA,McLaren,8.0,7.0,4.0,Finished,0 days 00:00:43.104000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Alexander Albon,ALB,Williams,9.0,14.0,2.0,Finished,0 days 00:00:48.573000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Esteban Ocon,OCO,Alpine,10.0,15.0,1.0,Finished,0 days 00:01:02.879000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Pierre Gasly,GAS,Alpine,11.0,11.0,0.0,Finished,0 days 00:01:06.208000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Yuki Tsunoda,TSU,AlphaTauri,12.0,18.0,0.0,Finished,0 days 00:01:18.982000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Nico Hulkenberg,HUL,Haas F1 Team,13.0,12.0,0.0,Finished,0 days 00:01:20.309000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Guanyu Zhou,ZHO,Alfa Romeo,14.0,10.0,0.0,Finished,0 days 00:01:21.676000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Valtteri Bottas,BOT,Alfa Romeo,15.0,9.0,0.0,Finished,0 days 00:01:25.597000,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Logan Sargeant,SAR,Williams,16.0,19.0,0.0,Retired,,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Lance Stroll,STR,Aston Martin,17.0,0.0,0.0,Collision damage,,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Fernando Alonso,ALO,Aston Martin,18.0,13.0,0.0,Withdrew,,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Kevin Magnussen,MAG,Haas F1 Team,19.0,16.0,0.0,Accident,,False,False
+2023,19,Mexico City Grand Prix,2023-10-29,Sergio Perez,PER,Red Bull Racing,20.0,5.0,0.0,Collision damage,,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:56:48.894000,False,True
+2023,20,São Paulo Grand Prix,2023-11-05,Lando Norris,NOR,McLaren,2.0,6.0,19.0,Finished,0 days 00:00:08.277000,False,True
+2023,20,São Paulo Grand Prix,2023-11-05,Fernando Alonso,ALO,Aston Martin,3.0,4.0,15.0,Finished,0 days 00:00:34.155000,False,True
+2023,20,São Paulo Grand Prix,2023-11-05,Sergio Perez,PER,Red Bull Racing,4.0,9.0,12.0,Finished,0 days 00:00:34.208000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Lance Stroll,STR,Aston Martin,5.0,3.0,10.0,Finished,0 days 00:00:40.845000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Carlos Sainz,SAI,Ferrari,6.0,7.0,8.0,Finished,0 days 00:00:50.188000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Pierre Gasly,GAS,Alpine,7.0,15.0,6.0,Finished,0 days 00:00:56.093000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Lewis Hamilton,HAM,Mercedes,8.0,5.0,4.0,Finished,0 days 00:01:02.859000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Yuki Tsunoda,TSU,AlphaTauri,9.0,16.0,2.0,Finished,0 days 00:01:09.880000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Esteban Ocon,OCO,Alpine,10.0,14.0,1.0,Lapped,0 days 00:00:09.841000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Logan Sargeant,SAR,Williams,11.0,19.0,0.0,Lapped,0 days 00:00:26.208000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Nico Hulkenberg,HUL,Haas F1 Team,12.0,11.0,0.0,Lapped,0 days 00:00:29.960000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Daniel Ricciardo,RIC,AlphaTauri,13.0,17.0,0.0,Lapped,0 days 00:01:09.961000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Oscar Piastri,PIA,McLaren,14.0,10.0,0.0,Lapped,0 days 00:00:03.636000,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,George Russell,RUS,Mercedes,15.0,8.0,0.0,Retired,,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Valtteri Bottas,BOT,Alfa Romeo,16.0,18.0,0.0,Retired,,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Guanyu Zhou,ZHO,Alfa Romeo,17.0,20.0,0.0,Retired,,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Kevin Magnussen,MAG,Haas F1 Team,18.0,12.0,0.0,Retired,,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Alexander Albon,ALB,Williams,19.0,13.0,0.0,Retired,,False,False
+2023,20,São Paulo Grand Prix,2023-11-05,Charles Leclerc,LEC,Ferrari,20.0,2.0,0.0,Did not start,,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Max Verstappen,VER,Red Bull Racing,1.0,2.0,25.0,Finished,0 days 01:29:08.289000,False,True
+2023,21,Las Vegas Grand Prix,2023-11-18,Charles Leclerc,LEC,Ferrari,2.0,1.0,18.0,Finished,0 days 00:00:02.070000,False,True
+2023,21,Las Vegas Grand Prix,2023-11-18,Sergio Perez,PER,Red Bull Racing,3.0,11.0,15.0,Finished,0 days 00:00:02.241000,False,True
+2023,21,Las Vegas Grand Prix,2023-11-18,Esteban Ocon,OCO,Alpine,4.0,16.0,12.0,Finished,0 days 00:00:18.665000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Lance Stroll,STR,Aston Martin,5.0,19.0,10.0,Finished,0 days 00:00:20.067000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Carlos Sainz,SAI,Ferrari,6.0,12.0,8.0,Finished,0 days 00:00:20.834000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Lewis Hamilton,HAM,Mercedes,7.0,10.0,6.0,Finished,0 days 00:00:21.755000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,George Russell,RUS,Mercedes,8.0,3.0,4.0,Finished,0 days 00:00:23.091000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Fernando Alonso,ALO,Aston Martin,9.0,9.0,2.0,Finished,0 days 00:00:25.964000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Oscar Piastri,PIA,McLaren,10.0,18.0,2.0,Finished,0 days 00:00:29.496000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Pierre Gasly,GAS,Alpine,11.0,4.0,0.0,Finished,0 days 00:00:34.270000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Alexander Albon,ALB,Williams,12.0,5.0,0.0,Finished,0 days 00:00:43.398000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Kevin Magnussen,MAG,Haas F1 Team,13.0,8.0,0.0,Finished,0 days 00:00:44.825000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Daniel Ricciardo,RIC,AlphaTauri,14.0,14.0,0.0,Finished,0 days 00:00:48.525000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Guanyu Zhou,ZHO,Alfa Romeo,15.0,17.0,0.0,Finished,0 days 00:00:50.162000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Logan Sargeant,SAR,Williams,16.0,6.0,0.0,Finished,0 days 00:00:50.882000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Valtteri Bottas,BOT,Alfa Romeo,17.0,7.0,0.0,Finished,0 days 00:01:25.350000,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Yuki Tsunoda,TSU,AlphaTauri,18.0,20.0,0.0,Retired,,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Nico Hulkenberg,HUL,Haas F1 Team,19.0,13.0,0.0,Retired,,False,False
+2023,21,Las Vegas Grand Prix,2023-11-18,Lando Norris,NOR,McLaren,20.0,15.0,0.0,Retired,,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:27:02.624000,False,True
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Charles Leclerc,LEC,Ferrari,2.0,2.0,18.0,Finished,0 days 00:00:17.993000,False,True
+2023,22,Abu Dhabi Grand Prix,2023-11-26,George Russell,RUS,Mercedes,3.0,4.0,15.0,Finished,0 days 00:00:20.328000,False,True
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Sergio Perez,PER,Red Bull Racing,4.0,9.0,12.0,Finished,0 days 00:00:21.453000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Lando Norris,NOR,McLaren,5.0,5.0,10.0,Finished,0 days 00:00:24.284000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Oscar Piastri,PIA,McLaren,6.0,3.0,8.0,Finished,0 days 00:00:31.487000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Fernando Alonso,ALO,Aston Martin,7.0,7.0,6.0,Finished,0 days 00:00:39.512000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Yuki Tsunoda,TSU,AlphaTauri,8.0,6.0,4.0,Finished,0 days 00:00:43.088000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Lewis Hamilton,HAM,Mercedes,9.0,11.0,2.0,Finished,0 days 00:00:44.424000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Lance Stroll,STR,Aston Martin,10.0,13.0,1.0,Finished,0 days 00:00:55.632000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Daniel Ricciardo,RIC,AlphaTauri,11.0,15.0,0.0,Finished,0 days 00:00:56.229000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Esteban Ocon,OCO,Alpine,12.0,12.0,0.0,Finished,0 days 00:01:06.373000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Pierre Gasly,GAS,Alpine,13.0,10.0,0.0,Finished,0 days 00:01:10.360000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Alexander Albon,ALB,Williams,14.0,14.0,0.0,Finished,0 days 00:01:13.184000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Nico Hulkenberg,HUL,Haas F1 Team,15.0,8.0,0.0,Finished,0 days 00:01:23.696000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Logan Sargeant,SAR,Williams,16.0,20.0,0.0,Finished,0 days 00:01:27.791000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Guanyu Zhou,ZHO,Alfa Romeo,17.0,19.0,0.0,Finished,0 days 00:01:29.422000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Carlos Sainz,SAI,Ferrari,18.0,16.0,0.0,Retired,,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Valtteri Bottas,BOT,Alfa Romeo,19.0,18.0,0.0,Lapped,0 days 00:00:12.411000,False,False
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Kevin Magnussen,MAG,Haas F1 Team,20.0,17.0,0.0,Lapped,0 days 00:00:14.876000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:31:44.742000,False,True
+2024,1,Bahrain Grand Prix,2024-03-02,Sergio Perez,PER,Red Bull Racing,2.0,5.0,18.0,Finished,0 days 00:00:22.457000,False,True
+2024,1,Bahrain Grand Prix,2024-03-02,Carlos Sainz,SAI,Ferrari,3.0,4.0,15.0,Finished,0 days 00:00:25.110000,False,True
+2024,1,Bahrain Grand Prix,2024-03-02,Charles Leclerc,LEC,Ferrari,4.0,2.0,12.0,Finished,0 days 00:00:39.669000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,George Russell,RUS,Mercedes,5.0,3.0,10.0,Finished,0 days 00:00:46.788000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Lando Norris,NOR,McLaren,6.0,7.0,8.0,Finished,0 days 00:00:48.458000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Lewis Hamilton,HAM,Mercedes,7.0,9.0,6.0,Finished,0 days 00:00:50.324000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Oscar Piastri,PIA,McLaren,8.0,8.0,4.0,Finished,0 days 00:00:56.082000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Fernando Alonso,ALO,Aston Martin,9.0,6.0,2.0,Finished,0 days 00:01:14.887000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Lance Stroll,STR,Aston Martin,10.0,12.0,1.0,Finished,0 days 00:01:33.216000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Guanyu Zhou,ZHO,Kick Sauber,11.0,17.0,0.0,Lapped,0 days 00:00:06.759000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Kevin Magnussen,MAG,Haas F1 Team,12.0,15.0,0.0,Lapped,0 days 00:00:08.316000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Daniel Ricciardo,RIC,RB,13.0,14.0,0.0,Lapped,0 days 00:00:08.958000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Yuki Tsunoda,TSU,RB,14.0,11.0,0.0,Lapped,0 days 00:00:09.482000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Alexander Albon,ALB,Williams,15.0,13.0,0.0,Lapped,0 days 00:00:11.886000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Nico Hulkenberg,HUL,Haas F1 Team,16.0,10.0,0.0,Lapped,0 days 00:00:17.632000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Esteban Ocon,OCO,Alpine,17.0,19.0,0.0,Lapped,0 days 00:00:31.450000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Pierre Gasly,GAS,Alpine,18.0,20.0,0.0,Lapped,0 days 00:00:32.417000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Valtteri Bottas,BOT,Kick Sauber,19.0,16.0,0.0,Lapped,0 days 00:01:23.230000,False,False
+2024,1,Bahrain Grand Prix,2024-03-02,Logan Sargeant,SAR,Williams,20.0,18.0,0.0,Lapped,0 days 00:00:20.795000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:20:43.273000,False,True
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Sergio Perez,PER,Red Bull Racing,2.0,3.0,18.0,Finished,0 days 00:00:13.643000,False,True
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Charles Leclerc,LEC,Ferrari,3.0,2.0,16.0,Finished,0 days 00:00:18.639000,False,True
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Oscar Piastri,PIA,McLaren,4.0,5.0,12.0,Finished,0 days 00:00:32.007000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Fernando Alonso,ALO,Aston Martin,5.0,4.0,10.0,Finished,0 days 00:00:35.759000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,George Russell,RUS,Mercedes,6.0,7.0,8.0,Finished,0 days 00:00:39.936000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Oliver Bearman,BEA,Ferrari,7.0,11.0,6.0,Finished,0 days 00:00:42.679000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lando Norris,NOR,McLaren,8.0,6.0,4.0,Finished,0 days 00:00:45.708000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lewis Hamilton,HAM,Mercedes,9.0,8.0,2.0,Finished,0 days 00:00:47.391000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Nico Hulkenberg,HUL,Haas F1 Team,10.0,15.0,1.0,Finished,0 days 00:01:16.996000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Alexander Albon,ALB,Williams,11.0,12.0,0.0,Finished,0 days 00:01:28.354000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Kevin Magnussen,MAG,Haas F1 Team,12.0,13.0,0.0,Finished,0 days 00:01:45.737000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Esteban Ocon,OCO,Alpine,13.0,17.0,0.0,Lapped,0 days 00:00:04.001000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Logan Sargeant,SAR,Williams,14.0,19.0,0.0,Lapped,0 days 00:00:06.785000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Yuki Tsunoda,TSU,RB,15.0,9.0,0.0,Lapped,0 days 00:00:10.533000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Daniel Ricciardo,RIC,RB,16.0,14.0,0.0,Lapped,0 days 00:00:20.715000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Valtteri Bottas,BOT,Kick Sauber,17.0,16.0,0.0,Lapped,0 days 00:00:23.115000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Guanyu Zhou,ZHO,Kick Sauber,18.0,20.0,0.0,Lapped,0 days 00:00:29.553000,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lance Stroll,STR,Aston Martin,19.0,10.0,0.0,Retired,,False,False
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Pierre Gasly,GAS,Alpine,20.0,18.0,0.0,Retired,,False,False
+2024,3,Australian Grand Prix,2024-03-24,Carlos Sainz,SAI,Ferrari,1.0,2.0,25.0,Finished,0 days 01:20:26.843000,False,True
+2024,3,Australian Grand Prix,2024-03-24,Charles Leclerc,LEC,Ferrari,2.0,4.0,19.0,Finished,0 days 00:00:02.366000,False,True
+2024,3,Australian Grand Prix,2024-03-24,Lando Norris,NOR,McLaren,3.0,3.0,15.0,Finished,0 days 00:00:05.904000,False,True
+2024,3,Australian Grand Prix,2024-03-24,Oscar Piastri,PIA,McLaren,4.0,5.0,12.0,Finished,0 days 00:00:35.770000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Sergio Perez,PER,Red Bull Racing,5.0,6.0,10.0,Finished,0 days 00:00:56.309000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Lance Stroll,STR,Aston Martin,6.0,9.0,8.0,Finished,0 days 00:01:33.222000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Yuki Tsunoda,TSU,RB,7.0,8.0,6.0,Finished,0 days 00:01:35.601000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Fernando Alonso,ALO,Aston Martin,8.0,10.0,4.0,Finished,0 days 00:01:40.992000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Nico Hulkenberg,HUL,Haas F1 Team,9.0,16.0,2.0,Finished,0 days 00:01:44.553000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Kevin Magnussen,MAG,Haas F1 Team,10.0,14.0,1.0,Lapped,0 days 00:00:04.081000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Alexander Albon,ALB,Williams,11.0,12.0,0.0,Lapped,0 days 00:00:05.009000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Daniel Ricciardo,RIC,RB,12.0,18.0,0.0,Lapped,0 days 00:00:11.508000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Pierre Gasly,GAS,Alpine,13.0,17.0,0.0,Lapped,0 days 00:00:40.953000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Valtteri Bottas,BOT,Kick Sauber,14.0,13.0,0.0,Lapped,0 days 00:00:42.326000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Guanyu Zhou,ZHO,Kick Sauber,15.0,19.0,0.0,Lapped,0 days 00:00:44.293000,False,False
+2024,3,Australian Grand Prix,2024-03-24,Esteban Ocon,OCO,Alpine,16.0,15.0,0.0,Lapped,0 days 00:00:53.979000,False,False
+2024,3,Australian Grand Prix,2024-03-24,George Russell,RUS,Mercedes,17.0,7.0,0.0,Retired,,False,False
+2024,3,Australian Grand Prix,2024-03-24,Lewis Hamilton,HAM,Mercedes,18.0,11.0,0.0,Retired,,False,False
+2024,3,Australian Grand Prix,2024-03-24,Max Verstappen,VER,Red Bull Racing,19.0,1.0,0.0,Retired,,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,0 days 01:54:23.566000,False,True
+2024,4,Japanese Grand Prix,2024-04-07,Sergio Perez,PER,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:12.535000,False,True
+2024,4,Japanese Grand Prix,2024-04-07,Carlos Sainz,SAI,Ferrari,3.0,4.0,15.0,Finished,0 days 00:00:20.866000,False,True
+2024,4,Japanese Grand Prix,2024-04-07,Charles Leclerc,LEC,Ferrari,4.0,8.0,12.0,Finished,0 days 00:00:26.522000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Lando Norris,NOR,McLaren,5.0,3.0,10.0,Finished,0 days 00:00:29.700000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Fernando Alonso,ALO,Aston Martin,6.0,5.0,8.0,Finished,0 days 00:00:44.272000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,George Russell,RUS,Mercedes,7.0,9.0,6.0,Finished,0 days 00:00:45.951000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Oscar Piastri,PIA,McLaren,8.0,6.0,4.0,Finished,0 days 00:00:47.525000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Lewis Hamilton,HAM,Mercedes,9.0,7.0,2.0,Finished,0 days 00:00:48.626000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Yuki Tsunoda,TSU,RB,10.0,10.0,1.0,Lapped,0 days 00:00:01.602000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Nico Hulkenberg,HUL,Haas F1 Team,11.0,12.0,0.0,Lapped,0 days 00:00:07.168000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Lance Stroll,STR,Aston Martin,12.0,16.0,0.0,Lapped,0 days 00:00:11.233000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Kevin Magnussen,MAG,Haas F1 Team,13.0,18.0,0.0,Lapped,0 days 00:00:17.919000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Valtteri Bottas,BOT,Kick Sauber,14.0,13.0,0.0,Lapped,0 days 00:00:18.893000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Esteban Ocon,OCO,Alpine,15.0,15.0,0.0,Lapped,0 days 00:00:41.152000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Pierre Gasly,GAS,Alpine,16.0,17.0,0.0,Lapped,0 days 00:00:55.066000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Logan Sargeant,SAR,Williams,17.0,19.0,0.0,Lapped,0 days 00:01:12.765000,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Guanyu Zhou,ZHO,Kick Sauber,18.0,20.0,0.0,Retired,,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Daniel Ricciardo,RIC,RB,19.0,11.0,0.0,Retired,,False,False
+2024,4,Japanese Grand Prix,2024-04-07,Alexander Albon,ALB,Williams,20.0,14.0,0.0,Retired,,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:40:52.554000,False,True
+2024,5,Chinese Grand Prix,2024-04-21,Lando Norris,NOR,McLaren,2.0,4.0,18.0,Finished,0 days 00:00:13.773000,False,True
+2024,5,Chinese Grand Prix,2024-04-21,Sergio Perez,PER,Red Bull Racing,3.0,2.0,15.0,Finished,0 days 00:00:19.160000,False,True
+2024,5,Chinese Grand Prix,2024-04-21,Charles Leclerc,LEC,Ferrari,4.0,6.0,12.0,Finished,0 days 00:00:23.623000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Carlos Sainz,SAI,Ferrari,5.0,7.0,10.0,Finished,0 days 00:00:33.983000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,George Russell,RUS,Mercedes,6.0,8.0,8.0,Finished,0 days 00:00:38.724000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Fernando Alonso,ALO,Aston Martin,7.0,3.0,7.0,Finished,0 days 00:00:43.414000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Oscar Piastri,PIA,McLaren,8.0,5.0,4.0,Finished,0 days 00:00:56.198000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Lewis Hamilton,HAM,Mercedes,9.0,18.0,2.0,Finished,0 days 00:00:57.986000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Nico Hulkenberg,HUL,Haas F1 Team,10.0,9.0,1.0,Finished,0 days 00:01:00.476000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Esteban Ocon,OCO,Alpine,11.0,13.0,0.0,Finished,0 days 00:01:02.812000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Alexander Albon,ALB,Williams,12.0,14.0,0.0,Finished,0 days 00:01:05.506000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Pierre Gasly,GAS,Alpine,13.0,15.0,0.0,Finished,0 days 00:01:09.223000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Guanyu Zhou,ZHO,Kick Sauber,14.0,16.0,0.0,Finished,0 days 00:01:11.689000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Lance Stroll,STR,Aston Martin,15.0,11.0,0.0,Finished,0 days 00:01:22.786000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Kevin Magnussen,MAG,Haas F1 Team,16.0,17.0,0.0,Finished,0 days 00:01:27.533000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Logan Sargeant,SAR,Williams,17.0,20.0,0.0,Finished,0 days 00:01:35.110000,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Daniel Ricciardo,RIC,RB,18.0,12.0,0.0,Retired,,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Yuki Tsunoda,TSU,RB,19.0,19.0,0.0,Retired,,False,False
+2024,5,Chinese Grand Prix,2024-04-21,Valtteri Bottas,BOT,Kick Sauber,20.0,10.0,0.0,Retired,,False,False
+2024,6,Miami Grand Prix,2024-05-05,Lando Norris,NOR,McLaren,1.0,5.0,25.0,Finished,0 days 01:30:49.876000,False,True
+2024,6,Miami Grand Prix,2024-05-05,Max Verstappen,VER,Red Bull Racing,2.0,1.0,18.0,Finished,0 days 00:00:07.612000,False,True
+2024,6,Miami Grand Prix,2024-05-05,Charles Leclerc,LEC,Ferrari,3.0,2.0,15.0,Finished,0 days 00:00:09.920000,False,True
+2024,6,Miami Grand Prix,2024-05-05,Sergio Perez,PER,Red Bull Racing,4.0,4.0,12.0,Finished,0 days 00:00:14.650000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Carlos Sainz,SAI,Ferrari,5.0,3.0,10.0,Finished,0 days 00:00:16.407000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Lewis Hamilton,HAM,Mercedes,6.0,8.0,8.0,Finished,0 days 00:00:16.585000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Yuki Tsunoda,TSU,RB,7.0,10.0,6.0,Finished,0 days 00:00:26.185000,False,False
+2024,6,Miami Grand Prix,2024-05-05,George Russell,RUS,Mercedes,8.0,7.0,4.0,Finished,0 days 00:00:34.789000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Fernando Alonso,ALO,Aston Martin,9.0,15.0,2.0,Finished,0 days 00:00:37.107000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Esteban Ocon,OCO,Alpine,10.0,13.0,1.0,Finished,0 days 00:00:39.746000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Nico Hulkenberg,HUL,Haas F1 Team,11.0,9.0,0.0,Finished,0 days 00:00:40.789000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Pierre Gasly,GAS,Alpine,12.0,12.0,0.0,Finished,0 days 00:00:44.958000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Oscar Piastri,PIA,McLaren,13.0,6.0,0.0,Finished,0 days 00:00:49.756000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Guanyu Zhou,ZHO,Kick Sauber,14.0,19.0,0.0,Finished,0 days 00:00:49.979000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Daniel Ricciardo,RIC,RB,15.0,20.0,0.0,Finished,0 days 00:00:50.956000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Valtteri Bottas,BOT,Kick Sauber,16.0,16.0,0.0,Finished,0 days 00:00:52.356000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Lance Stroll,STR,Aston Martin,17.0,11.0,0.0,Finished,0 days 00:00:55.173000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Alexander Albon,ALB,Williams,18.0,14.0,0.0,Finished,0 days 00:01:16.091000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Kevin Magnussen,MAG,Haas F1 Team,19.0,18.0,0.0,Finished,0 days 00:01:24.683000,False,False
+2024,6,Miami Grand Prix,2024-05-05,Logan Sargeant,SAR,Williams,20.0,17.0,0.0,Retired,,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:25:25.252000,False,True
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Lando Norris,NOR,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:00.725000,False,True
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Charles Leclerc,LEC,Ferrari,3.0,3.0,15.0,Finished,0 days 00:00:07.916000,False,True
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Oscar Piastri,PIA,McLaren,4.0,5.0,12.0,Finished,0 days 00:00:14.132000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Carlos Sainz,SAI,Ferrari,5.0,4.0,10.0,Finished,0 days 00:00:22.325000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Lewis Hamilton,HAM,Mercedes,6.0,8.0,8.0,Finished,0 days 00:00:35.104000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,George Russell,RUS,Mercedes,7.0,6.0,7.0,Finished,0 days 00:00:47.154000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Sergio Perez,PER,Red Bull Racing,8.0,11.0,4.0,Finished,0 days 00:00:54.776000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Lance Stroll,STR,Aston Martin,9.0,13.0,2.0,Finished,0 days 00:01:19.556000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Yuki Tsunoda,TSU,RB,10.0,7.0,1.0,Lapped,0 days 00:00:17.856000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Nico Hulkenberg,HUL,Haas F1 Team,11.0,10.0,0.0,Lapped,0 days 00:00:25.277000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Kevin Magnussen,MAG,Haas F1 Team,12.0,18.0,0.0,Lapped,0 days 00:00:26.434000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Daniel Ricciardo,RIC,RB,13.0,9.0,0.0,Lapped,0 days 00:00:27.661000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Esteban Ocon,OCO,Alpine,14.0,12.0,0.0,Lapped,0 days 00:00:43.907000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Guanyu Zhou,ZHO,Kick Sauber,15.0,17.0,0.0,Lapped,0 days 00:00:44.933000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Pierre Gasly,GAS,Alpine,16.0,15.0,0.0,Lapped,0 days 00:00:49.715000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Logan Sargeant,SAR,Williams,17.0,19.0,0.0,Lapped,0 days 00:00:51.051000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Valtteri Bottas,BOT,Kick Sauber,18.0,16.0,0.0,Lapped,0 days 00:00:56.343000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Fernando Alonso,ALO,Aston Martin,19.0,20.0,0.0,Lapped,0 days 00:01:15.124000,False,False
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Alexander Albon,ALB,Williams,20.0,14.0,0.0,Retired,,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Charles Leclerc,LEC,Ferrari,1.0,1.0,25.0,Finished,0 days 02:23:15.554000,False,True
+2024,8,Monaco Grand Prix,2024-05-26,Oscar Piastri,PIA,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:07.152000,False,True
+2024,8,Monaco Grand Prix,2024-05-26,Carlos Sainz,SAI,Ferrari,3.0,3.0,15.0,Finished,0 days 00:00:07.585000,False,True
+2024,8,Monaco Grand Prix,2024-05-26,Lando Norris,NOR,McLaren,4.0,4.0,12.0,Finished,0 days 00:00:08.650000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,George Russell,RUS,Mercedes,5.0,5.0,10.0,Finished,0 days 00:00:13.309000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Max Verstappen,VER,Red Bull Racing,6.0,6.0,8.0,Finished,0 days 00:00:13.853000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Lewis Hamilton,HAM,Mercedes,7.0,7.0,7.0,Finished,0 days 00:00:14.908000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Yuki Tsunoda,TSU,RB,8.0,8.0,4.0,Lapped,0 days 00:00:39.487000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Alexander Albon,ALB,Williams,9.0,9.0,2.0,Lapped,0 days 00:00:54.052000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Pierre Gasly,GAS,Alpine,10.0,10.0,1.0,Lapped,0 days 00:01:00.241000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Fernando Alonso,ALO,Aston Martin,11.0,14.0,0.0,Lapped,0 days 00:00:03.854000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Daniel Ricciardo,RIC,RB,12.0,12.0,0.0,Lapped,0 days 00:00:04.264000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Valtteri Bottas,BOT,Kick Sauber,13.0,17.0,0.0,Lapped,0 days 00:00:04.488000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Lance Stroll,STR,Aston Martin,14.0,13.0,0.0,Lapped,0 days 00:00:05.967000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Logan Sargeant,SAR,Williams,15.0,15.0,0.0,Lapped,0 days 00:00:09.026000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Guanyu Zhou,ZHO,Kick Sauber,16.0,18.0,0.0,Lapped,0 days 00:00:55.260000,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Esteban Ocon,OCO,Alpine,17.0,11.0,0.0,Retired,,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Sergio Perez,PER,Red Bull Racing,18.0,16.0,0.0,Retired,,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Nico Hulkenberg,HUL,Haas F1 Team,19.0,19.0,0.0,Retired,,False,False
+2024,8,Monaco Grand Prix,2024-05-26,Kevin Magnussen,MAG,Haas F1 Team,20.0,20.0,0.0,Retired,,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Max Verstappen,VER,Red Bull Racing,1.0,2.0,25.0,Finished,0 days 01:45:47.927000,False,True
+2024,9,Canadian Grand Prix,2024-06-09,Lando Norris,NOR,McLaren,2.0,3.0,18.0,Finished,0 days 00:00:03.879000,False,True
+2024,9,Canadian Grand Prix,2024-06-09,George Russell,RUS,Mercedes,3.0,1.0,15.0,Finished,0 days 00:00:04.317000,False,True
+2024,9,Canadian Grand Prix,2024-06-09,Lewis Hamilton,HAM,Mercedes,4.0,7.0,13.0,Finished,0 days 00:00:04.915000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Oscar Piastri,PIA,McLaren,5.0,4.0,10.0,Finished,0 days 00:00:10.199000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Fernando Alonso,ALO,Aston Martin,6.0,6.0,8.0,Finished,0 days 00:00:17.510000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Lance Stroll,STR,Aston Martin,7.0,9.0,6.0,Finished,0 days 00:00:23.625000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Daniel Ricciardo,RIC,RB,8.0,5.0,4.0,Finished,0 days 00:00:28.672000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Pierre Gasly,GAS,Alpine,9.0,15.0,2.0,Finished,0 days 00:00:30.021000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Esteban Ocon,OCO,Alpine,10.0,18.0,1.0,Finished,0 days 00:00:30.313000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Nico Hulkenberg,HUL,Haas F1 Team,11.0,17.0,0.0,Finished,0 days 00:00:30.824000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Kevin Magnussen,MAG,Haas F1 Team,12.0,14.0,0.0,Finished,0 days 00:00:31.253000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Valtteri Bottas,BOT,Kick Sauber,13.0,19.0,0.0,Finished,0 days 00:00:40.487000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Yuki Tsunoda,TSU,RB,14.0,8.0,0.0,Finished,0 days 00:00:52.694000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Guanyu Zhou,ZHO,Kick Sauber,15.0,20.0,0.0,Lapped,0 days 00:00:53.528000,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Carlos Sainz,SAI,Ferrari,16.0,12.0,0.0,Retired,,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Alexander Albon,ALB,Williams,17.0,10.0,0.0,Retired,,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Sergio Perez,PER,Red Bull Racing,18.0,16.0,0.0,Retired,,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Charles Leclerc,LEC,Ferrari,19.0,11.0,0.0,Retired,,False,False
+2024,9,Canadian Grand Prix,2024-06-09,Logan Sargeant,SAR,Williams,20.0,13.0,0.0,Retired,,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Max Verstappen,VER,Red Bull Racing,1.0,2.0,25.0,Finished,0 days 01:28:20.227000,False,True
+2024,10,Spanish Grand Prix,2024-06-23,Lando Norris,NOR,McLaren,2.0,1.0,19.0,Finished,0 days 00:00:02.219000,False,True
+2024,10,Spanish Grand Prix,2024-06-23,Lewis Hamilton,HAM,Mercedes,3.0,3.0,15.0,Finished,0 days 00:00:17.790000,False,True
+2024,10,Spanish Grand Prix,2024-06-23,George Russell,RUS,Mercedes,4.0,4.0,12.0,Finished,0 days 00:00:22.320000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Charles Leclerc,LEC,Ferrari,5.0,5.0,10.0,Finished,0 days 00:00:22.709000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Carlos Sainz,SAI,Ferrari,6.0,6.0,8.0,Finished,0 days 00:00:31.028000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Oscar Piastri,PIA,McLaren,7.0,9.0,6.0,Finished,0 days 00:00:33.760000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Sergio Perez,PER,Red Bull Racing,8.0,11.0,4.0,Finished,0 days 00:00:59.524000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Pierre Gasly,GAS,Alpine,9.0,7.0,2.0,Finished,0 days 00:01:02.025000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Esteban Ocon,OCO,Alpine,10.0,8.0,1.0,Finished,0 days 00:01:11.889000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Nico Hulkenberg,HUL,Haas F1 Team,11.0,13.0,0.0,Finished,0 days 00:01:19.215000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Fernando Alonso,ALO,Aston Martin,12.0,10.0,0.0,Lapped,0 days 00:00:09.497000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Guanyu Zhou,ZHO,Kick Sauber,13.0,15.0,0.0,Lapped,0 days 00:00:15.476000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Lance Stroll,STR,Aston Martin,14.0,14.0,0.0,Lapped,0 days 00:00:25.252000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Daniel Ricciardo,RIC,RB,15.0,18.0,0.0,Lapped,0 days 00:00:44.050000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Valtteri Bottas,BOT,Kick Sauber,16.0,12.0,0.0,Lapped,0 days 00:00:53.313000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Kevin Magnussen,MAG,Haas F1 Team,17.0,16.0,0.0,Lapped,0 days 00:00:54.788000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Alexander Albon,ALB,Williams,18.0,20.0,0.0,Lapped,0 days 00:00:58.149000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Yuki Tsunoda,TSU,RB,19.0,17.0,0.0,Lapped,0 days 00:01:08.904000,False,False
+2024,10,Spanish Grand Prix,2024-06-23,Logan Sargeant,SAR,Williams,20.0,19.0,0.0,Lapped,0 days 00:00:04.866000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,George Russell,RUS,Mercedes,1.0,3.0,25.0,Finished,0 days 01:24:22.798000,False,True
+2024,11,Austrian Grand Prix,2024-06-30,Oscar Piastri,PIA,McLaren,2.0,7.0,18.0,Finished,0 days 00:00:01.906000,False,True
+2024,11,Austrian Grand Prix,2024-06-30,Carlos Sainz,SAI,Ferrari,3.0,4.0,15.0,Finished,0 days 00:00:04.533000,False,True
+2024,11,Austrian Grand Prix,2024-06-30,Lewis Hamilton,HAM,Mercedes,4.0,5.0,12.0,Finished,0 days 00:00:23.142000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Max Verstappen,VER,Red Bull Racing,5.0,1.0,10.0,Finished,0 days 00:00:37.253000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Nico Hulkenberg,HUL,Haas F1 Team,6.0,9.0,8.0,Finished,0 days 00:00:54.088000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Sergio Perez,PER,Red Bull Racing,7.0,8.0,6.0,Finished,0 days 00:00:54.672000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Kevin Magnussen,MAG,Haas F1 Team,8.0,12.0,4.0,Finished,0 days 00:01:00.355000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Daniel Ricciardo,RIC,RB,9.0,11.0,2.0,Finished,0 days 00:01:01.169000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Pierre Gasly,GAS,Alpine,10.0,13.0,1.0,Finished,0 days 00:01:01.766000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Charles Leclerc,LEC,Ferrari,11.0,6.0,0.0,Finished,0 days 00:01:07.056000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Esteban Ocon,OCO,Alpine,12.0,10.0,0.0,Finished,0 days 00:01:08.325000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Lance Stroll,STR,Aston Martin,13.0,17.0,0.0,Lapped,0 days 00:00:10.234000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Yuki Tsunoda,TSU,RB,14.0,14.0,0.0,Lapped,0 days 00:00:13.145000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Alexander Albon,ALB,Williams,15.0,16.0,0.0,Lapped,0 days 00:00:15.866000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Valtteri Bottas,BOT,Kick Sauber,16.0,18.0,0.0,Lapped,0 days 00:00:19.375000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Guanyu Zhou,ZHO,Kick Sauber,17.0,20.0,0.0,Lapped,0 days 00:00:44.882000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Fernando Alonso,ALO,Aston Martin,18.0,15.0,0.0,Lapped,0 days 00:00:47.660000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Logan Sargeant,SAR,Williams,19.0,19.0,0.0,Lapped,0 days 00:00:06.309000,False,False
+2024,11,Austrian Grand Prix,2024-06-30,Lando Norris,NOR,McLaren,20.0,2.0,0.0,Lapped,,False,False
+2024,12,British Grand Prix,2024-07-07,Lewis Hamilton,HAM,Mercedes,1.0,2.0,25.0,Finished,0 days 01:22:27.059000,False,True
+2024,12,British Grand Prix,2024-07-07,Max Verstappen,VER,Red Bull Racing,2.0,4.0,18.0,Finished,0 days 00:00:01.465000,False,True
+2024,12,British Grand Prix,2024-07-07,Lando Norris,NOR,McLaren,3.0,3.0,15.0,Finished,0 days 00:00:07.547000,False,True
+2024,12,British Grand Prix,2024-07-07,Oscar Piastri,PIA,McLaren,4.0,5.0,12.0,Finished,0 days 00:00:12.429000,False,False
+2024,12,British Grand Prix,2024-07-07,Carlos Sainz,SAI,Ferrari,5.0,7.0,11.0,Finished,0 days 00:00:47.318000,False,False
+2024,12,British Grand Prix,2024-07-07,Nico Hulkenberg,HUL,Haas F1 Team,6.0,6.0,8.0,Finished,0 days 00:00:55.722000,False,False
+2024,12,British Grand Prix,2024-07-07,Lance Stroll,STR,Aston Martin,7.0,8.0,6.0,Finished,0 days 00:00:56.569000,False,False
+2024,12,British Grand Prix,2024-07-07,Fernando Alonso,ALO,Aston Martin,8.0,10.0,4.0,Finished,0 days 00:01:03.577000,False,False
+2024,12,British Grand Prix,2024-07-07,Alexander Albon,ALB,Williams,9.0,9.0,2.0,Finished,0 days 00:01:08.387000,False,False
+2024,12,British Grand Prix,2024-07-07,Yuki Tsunoda,TSU,RB,10.0,13.0,1.0,Finished,0 days 00:01:19.303000,False,False
+2024,12,British Grand Prix,2024-07-07,Logan Sargeant,SAR,Williams,11.0,12.0,0.0,Finished,0 days 00:01:28.960000,False,False
+2024,12,British Grand Prix,2024-07-07,Kevin Magnussen,MAG,Haas F1 Team,12.0,17.0,0.0,Finished,0 days 00:01:30.153000,False,False
+2024,12,British Grand Prix,2024-07-07,Daniel Ricciardo,RIC,RB,13.0,15.0,0.0,Lapped,0 days 00:00:09.937000,False,False
+2024,12,British Grand Prix,2024-07-07,Charles Leclerc,LEC,Ferrari,14.0,11.0,0.0,Lapped,0 days 00:00:40.473000,False,False
+2024,12,British Grand Prix,2024-07-07,Valtteri Bottas,BOT,Kick Sauber,15.0,16.0,0.0,Lapped,0 days 00:00:41.821000,False,False
+2024,12,British Grand Prix,2024-07-07,Esteban Ocon,OCO,Alpine,16.0,18.0,0.0,Lapped,0 days 00:00:10.682000,False,False
+2024,12,British Grand Prix,2024-07-07,Sergio Perez,PER,Red Bull Racing,17.0,20.0,0.0,Lapped,0 days 00:00:18.005000,False,False
+2024,12,British Grand Prix,2024-07-07,Guanyu Zhou,ZHO,Kick Sauber,18.0,14.0,0.0,Lapped,0 days 00:00:54.476000,False,False
+2024,12,British Grand Prix,2024-07-07,George Russell,RUS,Mercedes,19.0,1.0,0.0,Retired,,False,False
+2024,12,British Grand Prix,2024-07-07,Pierre Gasly,GAS,Alpine,20.0,19.0,0.0,Did not start,,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Oscar Piastri,PIA,McLaren,1.0,2.0,25.0,Finished,0 days 01:38:01.989000,False,True
+2024,13,Hungarian Grand Prix,2024-07-21,Lando Norris,NOR,McLaren,2.0,1.0,18.0,Finished,0 days 00:00:02.141000,False,True
+2024,13,Hungarian Grand Prix,2024-07-21,Lewis Hamilton,HAM,Mercedes,3.0,5.0,15.0,Finished,0 days 00:00:14.880000,False,True
+2024,13,Hungarian Grand Prix,2024-07-21,Charles Leclerc,LEC,Ferrari,4.0,6.0,12.0,Finished,0 days 00:00:19.686000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Max Verstappen,VER,Red Bull Racing,5.0,3.0,10.0,Finished,0 days 00:00:21.349000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Carlos Sainz,SAI,Ferrari,6.0,4.0,8.0,Finished,0 days 00:00:23.073000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Sergio Perez,PER,Red Bull Racing,7.0,16.0,6.0,Finished,0 days 00:00:39.792000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,George Russell,RUS,Mercedes,8.0,17.0,5.0,Finished,0 days 00:00:42.368000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Yuki Tsunoda,TSU,RB,9.0,10.0,2.0,Finished,0 days 00:01:17.259000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Lance Stroll,STR,Aston Martin,10.0,8.0,1.0,Finished,0 days 00:01:17.976000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Fernando Alonso,ALO,Aston Martin,11.0,7.0,0.0,Finished,0 days 00:01:22.460000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Daniel Ricciardo,RIC,RB,12.0,9.0,0.0,Lapped,0 days 00:00:17.924000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Nico Hulkenberg,HUL,Haas F1 Team,13.0,11.0,0.0,Lapped,0 days 00:00:33.184000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Alexander Albon,ALB,Williams,14.0,13.0,0.0,Lapped,0 days 00:00:36.769000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Kevin Magnussen,MAG,Haas F1 Team,15.0,15.0,0.0,Lapped,0 days 00:00:45.302000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Valtteri Bottas,BOT,Kick Sauber,16.0,12.0,0.0,Lapped,0 days 00:00:45.409000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Logan Sargeant,SAR,Williams,17.0,14.0,0.0,Lapped,0 days 00:00:52.591000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Esteban Ocon,OCO,Alpine,18.0,19.0,0.0,Lapped,0 days 00:01:00.929000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Guanyu Zhou,ZHO,Kick Sauber,19.0,18.0,0.0,Lapped,0 days 00:01:03.598000,False,False
+2024,13,Hungarian Grand Prix,2024-07-21,Pierre Gasly,GAS,Alpine,20.0,20.0,0.0,Retired,,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Lewis Hamilton,HAM,Mercedes,1.0,3.0,25.0,Finished,0 days 01:19:57.566000,False,True
+2024,14,Belgian Grand Prix,2024-07-28,Oscar Piastri,PIA,McLaren,2.0,5.0,18.0,Finished,0 days 00:00:00.647000,False,True
+2024,14,Belgian Grand Prix,2024-07-28,Charles Leclerc,LEC,Ferrari,3.0,1.0,15.0,Finished,0 days 00:00:08.023000,False,True
+2024,14,Belgian Grand Prix,2024-07-28,Max Verstappen,VER,Red Bull Racing,4.0,11.0,12.0,Finished,0 days 00:00:08.700000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Lando Norris,NOR,McLaren,5.0,4.0,10.0,Finished,0 days 00:00:09.324000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Carlos Sainz,SAI,Ferrari,6.0,7.0,8.0,Finished,0 days 00:00:19.269000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Sergio Perez,PER,Red Bull Racing,7.0,2.0,7.0,Finished,0 days 00:00:42.669000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Fernando Alonso,ALO,Aston Martin,8.0,8.0,4.0,Finished,0 days 00:00:49.437000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Esteban Ocon,OCO,Alpine,9.0,9.0,2.0,Finished,0 days 00:00:52.026000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Daniel Ricciardo,RIC,RB,10.0,13.0,1.0,Finished,0 days 00:00:54.400000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Lance Stroll,STR,Aston Martin,11.0,15.0,0.0,Finished,0 days 00:01:02.485000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Alexander Albon,ALB,Williams,12.0,10.0,0.0,Finished,0 days 00:01:03.125000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Pierre Gasly,GAS,Alpine,13.0,12.0,0.0,Finished,0 days 00:01:03.839000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Kevin Magnussen,MAG,Haas F1 Team,14.0,17.0,0.0,Finished,0 days 00:01:06.105000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Valtteri Bottas,BOT,Kick Sauber,15.0,14.0,0.0,Finished,0 days 00:01:10.112000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Yuki Tsunoda,TSU,RB,16.0,20.0,0.0,Finished,0 days 00:01:16.211000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Logan Sargeant,SAR,Williams,17.0,18.0,0.0,Finished,0 days 00:01:25.531000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Nico Hulkenberg,HUL,Haas F1 Team,18.0,16.0,0.0,Finished,0 days 00:01:28.307000,False,False
+2024,14,Belgian Grand Prix,2024-07-28,Guanyu Zhou,ZHO,Kick Sauber,19.0,19.0,0.0,Retired,,False,False
+2024,14,Belgian Grand Prix,2024-07-28,George Russell,RUS,Mercedes,20.0,6.0,0.0,Disqualified,,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Lando Norris,NOR,McLaren,1.0,1.0,26.0,Finished,0 days 01:30:45.519000,False,True
+2024,15,Dutch Grand Prix,2024-08-25,Max Verstappen,VER,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:22.896000,False,True
+2024,15,Dutch Grand Prix,2024-08-25,Charles Leclerc,LEC,Ferrari,3.0,6.0,15.0,Finished,0 days 00:00:25.439000,False,True
+2024,15,Dutch Grand Prix,2024-08-25,Oscar Piastri,PIA,McLaren,4.0,3.0,12.0,Finished,0 days 00:00:27.337000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Carlos Sainz,SAI,Ferrari,5.0,10.0,10.0,Finished,0 days 00:00:32.137000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Sergio Perez,PER,Red Bull Racing,6.0,5.0,8.0,Finished,0 days 00:00:39.542000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,George Russell,RUS,Mercedes,7.0,4.0,6.0,Finished,0 days 00:00:44.617000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Lewis Hamilton,HAM,Mercedes,8.0,14.0,4.0,Finished,0 days 00:00:49.599000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Pierre Gasly,GAS,Alpine,9.0,9.0,2.0,Lapped,0 days 00:00:08.604000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Fernando Alonso,ALO,Aston Martin,10.0,7.0,1.0,Lapped,0 days 00:00:13.533000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Nico Hulkenberg,HUL,Haas F1 Team,11.0,12.0,0.0,Lapped,0 days 00:00:19.214000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Daniel Ricciardo,RIC,RB,12.0,13.0,0.0,Lapped,0 days 00:00:21.067000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Lance Stroll,STR,Aston Martin,13.0,8.0,0.0,Lapped,0 days 00:00:25.712000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Alexander Albon,ALB,Williams,14.0,19.0,0.0,Lapped,0 days 00:00:40.711000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Esteban Ocon,OCO,Alpine,15.0,15.0,0.0,Lapped,0 days 00:00:46.878000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Logan Sargeant,SAR,Williams,16.0,18.0,0.0,Lapped,0 days 00:01:04.539000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Yuki Tsunoda,TSU,RB,17.0,11.0,0.0,Lapped,0 days 00:01:05.146000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Kevin Magnussen,MAG,Haas F1 Team,18.0,20.0,0.0,Lapped,0 days 00:01:05.707000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Valtteri Bottas,BOT,Kick Sauber,19.0,16.0,0.0,Lapped,0 days 00:00:03.248000,False,False
+2024,15,Dutch Grand Prix,2024-08-25,Guanyu Zhou,ZHO,Kick Sauber,20.0,17.0,0.0,Lapped,0 days 00:00:36.019000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Charles Leclerc,LEC,Ferrari,1.0,4.0,25.0,Finished,0 days 01:14:40.727000,False,True
+2024,16,Italian Grand Prix,2024-09-01,Oscar Piastri,PIA,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:02.664000,False,True
+2024,16,Italian Grand Prix,2024-09-01,Lando Norris,NOR,McLaren,3.0,1.0,16.0,Finished,0 days 00:00:06.153000,False,True
+2024,16,Italian Grand Prix,2024-09-01,Carlos Sainz,SAI,Ferrari,4.0,5.0,12.0,Finished,0 days 00:00:15.621000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Lewis Hamilton,HAM,Mercedes,5.0,6.0,10.0,Finished,0 days 00:00:22.820000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Max Verstappen,VER,Red Bull Racing,6.0,7.0,8.0,Finished,0 days 00:00:37.932000,False,False
+2024,16,Italian Grand Prix,2024-09-01,George Russell,RUS,Mercedes,7.0,3.0,6.0,Finished,0 days 00:00:39.715000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Sergio Perez,PER,Red Bull Racing,8.0,8.0,4.0,Finished,0 days 00:00:54.148000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Alexander Albon,ALB,Williams,9.0,9.0,2.0,Finished,0 days 00:01:07.456000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Kevin Magnussen,MAG,Haas F1 Team,10.0,13.0,1.0,Finished,0 days 00:01:08.302000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Fernando Alonso,ALO,Aston Martin,11.0,11.0,0.0,Finished,0 days 00:01:08.495000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Franco Colapinto,COL,Williams,12.0,18.0,0.0,Finished,0 days 00:01:21.308000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Daniel Ricciardo,RIC,RB,13.0,12.0,0.0,Finished,0 days 00:01:33.452000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Esteban Ocon,OCO,Alpine,14.0,15.0,0.0,Lapped,0 days 00:00:12.659000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Pierre Gasly,GAS,Alpine,15.0,14.0,0.0,Lapped,0 days 00:00:18.344000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Valtteri Bottas,BOT,Kick Sauber,16.0,19.0,0.0,Lapped,0 days 00:00:27.211000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Nico Hulkenberg,HUL,Haas F1 Team,17.0,10.0,0.0,Lapped,0 days 00:00:30.870000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Guanyu Zhou,ZHO,Kick Sauber,18.0,20.0,0.0,Lapped,0 days 00:00:40.055000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Lance Stroll,STR,Aston Martin,19.0,17.0,0.0,Lapped,0 days 00:00:43.508000,False,False
+2024,16,Italian Grand Prix,2024-09-01,Yuki Tsunoda,TSU,RB,20.0,16.0,0.0,Retired,,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Oscar Piastri,PIA,McLaren,1.0,2.0,25.0,Finished,0 days 01:32:58.007000,False,True
+2024,17,Azerbaijan Grand Prix,2024-09-15,Charles Leclerc,LEC,Ferrari,2.0,1.0,18.0,Finished,0 days 00:00:10.910000,False,True
+2024,17,Azerbaijan Grand Prix,2024-09-15,George Russell,RUS,Mercedes,3.0,5.0,15.0,Finished,0 days 00:00:31.328000,False,True
+2024,17,Azerbaijan Grand Prix,2024-09-15,Lando Norris,NOR,McLaren,4.0,15.0,13.0,Finished,0 days 00:00:36.143000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Max Verstappen,VER,Red Bull Racing,5.0,6.0,10.0,Finished,0 days 00:01:17.098000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Fernando Alonso,ALO,Aston Martin,6.0,7.0,8.0,Finished,0 days 00:01:25.468000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Alexander Albon,ALB,Williams,7.0,9.0,6.0,Finished,0 days 00:01:27.396000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Franco Colapinto,COL,Williams,8.0,8.0,4.0,Finished,0 days 00:01:29.541000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Lewis Hamilton,HAM,Mercedes,9.0,19.0,2.0,Finished,0 days 00:01:32.401000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Oliver Bearman,BEA,Haas F1 Team,10.0,10.0,1.0,Finished,0 days 00:01:33.127000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Nico Hulkenberg,HUL,Haas F1 Team,11.0,12.0,0.0,Finished,0 days 00:01:33.465000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Pierre Gasly,GAS,Alpine,12.0,18.0,0.0,Finished,0 days 00:01:57.189000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Daniel Ricciardo,RIC,RB,13.0,14.0,0.0,Finished,0 days 00:02:26.907000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Guanyu Zhou,ZHO,Kick Sauber,14.0,17.0,0.0,Finished,0 days 00:02:28.841000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Esteban Ocon,OCO,Alpine,15.0,20.0,0.0,Lapped,0 days 00:00:21.344000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Valtteri Bottas,BOT,Kick Sauber,16.0,16.0,0.0,Lapped,0 days 00:00:25.395000,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Sergio Perez,PER,Red Bull Racing,17.0,4.0,0.0,Retired,,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Carlos Sainz,SAI,Ferrari,18.0,3.0,0.0,Retired,,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Lance Stroll,STR,Aston Martin,19.0,13.0,0.0,Retired,,False,False
+2024,17,Azerbaijan Grand Prix,2024-09-15,Yuki Tsunoda,TSU,RB,20.0,11.0,0.0,Retired,,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Lando Norris,NOR,McLaren,1.0,1.0,25.0,Finished,0 days 01:40:52.571000,False,True
+2024,18,Singapore Grand Prix,2024-09-22,Max Verstappen,VER,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:20.945000,False,True
+2024,18,Singapore Grand Prix,2024-09-22,Oscar Piastri,PIA,McLaren,3.0,5.0,15.0,Finished,0 days 00:00:41.823000,False,True
+2024,18,Singapore Grand Prix,2024-09-22,George Russell,RUS,Mercedes,4.0,4.0,12.0,Finished,0 days 00:01:01.040000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Charles Leclerc,LEC,Ferrari,5.0,9.0,10.0,Finished,0 days 00:01:02.430000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Lewis Hamilton,HAM,Mercedes,6.0,3.0,8.0,Finished,0 days 00:01:25.248000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Carlos Sainz,SAI,Ferrari,7.0,10.0,6.0,Finished,0 days 00:01:36.039000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Fernando Alonso,ALO,Aston Martin,8.0,7.0,4.0,Lapped,0 days 00:00:00.873000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Nico Hulkenberg,HUL,Haas F1 Team,9.0,6.0,2.0,Lapped,0 days 00:00:03.140000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Sergio Perez,PER,Red Bull Racing,10.0,13.0,1.0,Lapped,0 days 00:00:04.624000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Franco Colapinto,COL,Williams,11.0,12.0,0.0,Lapped,0 days 00:00:06.284000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Yuki Tsunoda,TSU,RB,12.0,8.0,0.0,Lapped,0 days 00:00:08.792000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Esteban Ocon,OCO,Alpine,13.0,15.0,0.0,Lapped,0 days 00:00:44.005000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Lance Stroll,STR,Aston Martin,14.0,17.0,0.0,Lapped,0 days 00:00:47.571000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Guanyu Zhou,ZHO,Kick Sauber,15.0,20.0,0.0,Lapped,0 days 00:00:57.220000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Valtteri Bottas,BOT,Kick Sauber,16.0,19.0,0.0,Lapped,0 days 00:00:57.829000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Pierre Gasly,GAS,Alpine,17.0,18.0,0.0,Lapped,0 days 00:00:59.059000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Daniel Ricciardo,RIC,RB,18.0,16.0,0.0,Lapped,0 days 00:01:29.796000,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Kevin Magnussen,MAG,Haas F1 Team,19.0,14.0,0.0,Retired,,False,False
+2024,18,Singapore Grand Prix,2024-09-22,Alexander Albon,ALB,Williams,20.0,11.0,0.0,Retired,,False,False
+2024,19,United States Grand Prix,2024-10-20,Charles Leclerc,LEC,Ferrari,1.0,4.0,25.0,Finished,0 days 01:35:09.639000,False,True
+2024,19,United States Grand Prix,2024-10-20,Carlos Sainz,SAI,Ferrari,2.0,3.0,18.0,Finished,0 days 00:00:08.562000,False,True
+2024,19,United States Grand Prix,2024-10-20,Max Verstappen,VER,Red Bull Racing,3.0,2.0,15.0,Finished,0 days 00:00:19.412000,False,True
+2024,19,United States Grand Prix,2024-10-20,Lando Norris,NOR,McLaren,4.0,1.0,12.0,Finished,0 days 00:00:20.354000,False,False
+2024,19,United States Grand Prix,2024-10-20,Oscar Piastri,PIA,McLaren,5.0,5.0,10.0,Finished,0 days 00:00:21.921000,False,False
+2024,19,United States Grand Prix,2024-10-20,George Russell,RUS,Mercedes,6.0,20.0,8.0,Finished,0 days 00:00:56.295000,False,False
+2024,19,United States Grand Prix,2024-10-20,Sergio Perez,PER,Red Bull Racing,7.0,9.0,6.0,Finished,0 days 00:00:59.072000,False,False
+2024,19,United States Grand Prix,2024-10-20,Nico Hulkenberg,HUL,Haas F1 Team,8.0,11.0,4.0,Finished,0 days 00:01:02.957000,False,False
+2024,19,United States Grand Prix,2024-10-20,Liam Lawson,LAW,RB,9.0,19.0,2.0,Finished,0 days 00:01:10.563000,False,False
+2024,19,United States Grand Prix,2024-10-20,Franco Colapinto,COL,Williams,10.0,15.0,1.0,Finished,0 days 00:01:11.979000,False,False
+2024,19,United States Grand Prix,2024-10-20,Kevin Magnussen,MAG,Haas F1 Team,11.0,8.0,0.0,Finished,0 days 00:01:19.782000,False,False
+2024,19,United States Grand Prix,2024-10-20,Pierre Gasly,GAS,Alpine,12.0,6.0,0.0,Finished,0 days 00:01:30.558000,False,False
+2024,19,United States Grand Prix,2024-10-20,Fernando Alonso,ALO,Aston Martin,13.0,7.0,0.0,Lapped,0 days 00:00:01.726000,False,False
+2024,19,United States Grand Prix,2024-10-20,Yuki Tsunoda,TSU,RB,14.0,10.0,0.0,Lapped,0 days 00:00:08.212000,False,False
+2024,19,United States Grand Prix,2024-10-20,Lance Stroll,STR,Aston Martin,15.0,13.0,0.0,Lapped,0 days 00:00:16.983000,False,False
+2024,19,United States Grand Prix,2024-10-20,Alexander Albon,ALB,Williams,16.0,14.0,0.0,Lapped,0 days 00:00:18.092000,False,False
+2024,19,United States Grand Prix,2024-10-20,Valtteri Bottas,BOT,Kick Sauber,17.0,16.0,0.0,Lapped,0 days 00:00:34.333000,False,False
+2024,19,United States Grand Prix,2024-10-20,Esteban Ocon,OCO,Alpine,18.0,12.0,0.0,Lapped,0 days 00:00:42.112000,False,False
+2024,19,United States Grand Prix,2024-10-20,Guanyu Zhou,ZHO,Kick Sauber,19.0,18.0,0.0,Lapped,0 days 00:00:49.240000,False,False
+2024,19,United States Grand Prix,2024-10-20,Lewis Hamilton,HAM,Mercedes,20.0,17.0,0.0,Retired,,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Carlos Sainz,SAI,Ferrari,1.0,1.0,25.0,Finished,0 days 01:40:55.800000,False,True
+2024,20,Mexico City Grand Prix,2024-10-27,Lando Norris,NOR,McLaren,2.0,3.0,18.0,Finished,0 days 00:00:04.705000,False,True
+2024,20,Mexico City Grand Prix,2024-10-27,Charles Leclerc,LEC,Ferrari,3.0,4.0,16.0,Finished,0 days 00:00:34.387000,False,True
+2024,20,Mexico City Grand Prix,2024-10-27,Lewis Hamilton,HAM,Mercedes,4.0,6.0,12.0,Finished,0 days 00:00:44.780000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,George Russell,RUS,Mercedes,5.0,5.0,10.0,Finished,0 days 00:00:48.536000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Max Verstappen,VER,Red Bull Racing,6.0,2.0,8.0,Finished,0 days 00:00:59.558000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Kevin Magnussen,MAG,Haas F1 Team,7.0,7.0,6.0,Finished,0 days 00:01:03.642000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Oscar Piastri,PIA,McLaren,8.0,17.0,4.0,Finished,0 days 00:01:04.928000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Nico Hulkenberg,HUL,Haas F1 Team,9.0,10.0,2.0,Lapped,0 days 00:00:02.720000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Pierre Gasly,GAS,Alpine,10.0,8.0,1.0,Lapped,0 days 00:00:18.587000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Lance Stroll,STR,Aston Martin,11.0,14.0,0.0,Lapped,0 days 00:00:25.072000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Franco Colapinto,COL,Williams,12.0,16.0,0.0,Lapped,0 days 00:00:37.497000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Esteban Ocon,OCO,Alpine,13.0,0.0,0.0,Lapped,0 days 00:00:39.663000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Valtteri Bottas,BOT,Kick Sauber,14.0,15.0,0.0,Lapped,0 days 00:00:42.227000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Guanyu Zhou,ZHO,Kick Sauber,15.0,19.0,0.0,Lapped,0 days 00:01:01.722000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Liam Lawson,LAW,RB,16.0,12.0,0.0,Lapped,0 days 00:01:04.466000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Sergio Perez,PER,Red Bull Racing,17.0,18.0,0.0,Lapped,0 days 00:01:13.284000,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Fernando Alonso,ALO,Aston Martin,18.0,13.0,0.0,Retired,,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Alexander Albon,ALB,Williams,19.0,9.0,0.0,Retired,,False,False
+2024,20,Mexico City Grand Prix,2024-10-27,Yuki Tsunoda,TSU,RB,20.0,11.0,0.0,Retired,,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Max Verstappen,VER,Red Bull Racing,1.0,17.0,26.0,Finished,0 days 02:06:54.430000,False,True
+2024,21,São Paulo Grand Prix,2024-11-03,Esteban Ocon,OCO,Alpine,2.0,4.0,18.0,Finished,0 days 00:00:19.477000,False,True
+2024,21,São Paulo Grand Prix,2024-11-03,Pierre Gasly,GAS,Alpine,3.0,13.0,15.0,Finished,0 days 00:00:22.532000,False,True
+2024,21,São Paulo Grand Prix,2024-11-03,George Russell,RUS,Mercedes,4.0,2.0,12.0,Finished,0 days 00:00:23.265000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Charles Leclerc,LEC,Ferrari,5.0,6.0,10.0,Finished,0 days 00:00:30.177000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Lando Norris,NOR,McLaren,6.0,1.0,8.0,Finished,0 days 00:00:31.372000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Yuki Tsunoda,TSU,RB,7.0,3.0,6.0,Finished,0 days 00:00:42.056000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Oscar Piastri,PIA,McLaren,8.0,8.0,4.0,Finished,0 days 00:00:44.943000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Liam Lawson,LAW,RB,9.0,5.0,2.0,Finished,0 days 00:00:50.452000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Lewis Hamilton,HAM,Mercedes,10.0,14.0,1.0,Finished,0 days 00:00:50.753000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Sergio Perez,PER,Red Bull Racing,11.0,12.0,0.0,Finished,0 days 00:00:51.531000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Oliver Bearman,BEA,Haas F1 Team,12.0,15.0,0.0,Finished,0 days 00:00:57.085000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Valtteri Bottas,BOT,Kick Sauber,13.0,11.0,0.0,Finished,0 days 00:01:03.588000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Fernando Alonso,ALO,Aston Martin,14.0,9.0,0.0,Finished,0 days 00:01:18.049000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Guanyu Zhou,ZHO,Kick Sauber,15.0,19.0,0.0,Finished,0 days 00:01:19.649000,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Carlos Sainz,SAI,Ferrari,16.0,20.0,0.0,Retired,,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Franco Colapinto,COL,Williams,17.0,16.0,0.0,Retired,,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Alexander Albon,ALB,Williams,18.0,7.0,0.0,Did not start,,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Lance Stroll,STR,Aston Martin,19.0,10.0,0.0,Did not start,,False,False
+2024,21,São Paulo Grand Prix,2024-11-03,Nico Hulkenberg,HUL,Haas F1 Team,20.0,18.0,0.0,Disqualified,,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,George Russell,RUS,Mercedes,1.0,1.0,25.0,Finished,0 days 01:22:05.969000,False,True
+2024,22,Las Vegas Grand Prix,2024-11-23,Lewis Hamilton,HAM,Mercedes,2.0,10.0,18.0,Finished,0 days 00:00:07.313000,False,True
+2024,22,Las Vegas Grand Prix,2024-11-23,Carlos Sainz,SAI,Ferrari,3.0,2.0,15.0,Finished,0 days 00:00:11.906000,False,True
+2024,22,Las Vegas Grand Prix,2024-11-23,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:14.283000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Max Verstappen,VER,Red Bull Racing,5.0,5.0,10.0,Finished,0 days 00:00:16.582000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Lando Norris,NOR,McLaren,6.0,6.0,9.0,Finished,0 days 00:00:43.385000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Oscar Piastri,PIA,McLaren,7.0,8.0,6.0,Finished,0 days 00:00:51.365000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Nico Hulkenberg,HUL,Haas F1 Team,8.0,9.0,4.0,Finished,0 days 00:00:59.808000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Yuki Tsunoda,TSU,RB,9.0,7.0,2.0,Finished,0 days 00:01:02.808000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Sergio Perez,PER,Red Bull Racing,10.0,15.0,1.0,Finished,0 days 00:01:03.114000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Fernando Alonso,ALO,Aston Martin,11.0,16.0,0.0,Finished,0 days 00:01:09.195000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Kevin Magnussen,MAG,Haas F1 Team,12.0,12.0,0.0,Finished,0 days 00:01:09.803000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Guanyu Zhou,ZHO,Kick Sauber,13.0,13.0,0.0,Finished,0 days 00:01:14.085000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Franco Colapinto,COL,Williams,14.0,20.0,0.0,Finished,0 days 00:01:15.172000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Lance Stroll,STR,Aston Martin,15.0,18.0,0.0,Finished,0 days 00:01:24.102000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Liam Lawson,LAW,RB,16.0,14.0,0.0,Finished,0 days 00:01:31.005000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Esteban Ocon,OCO,Alpine,17.0,11.0,0.0,Lapped,0 days 00:00:02.060000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Valtteri Bottas,BOT,Kick Sauber,18.0,19.0,0.0,Lapped,0 days 00:00:11.285000,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Alexander Albon,ALB,Williams,19.0,17.0,0.0,Retired,,False,False
+2024,22,Las Vegas Grand Prix,2024-11-23,Pierre Gasly,GAS,Alpine,20.0,3.0,0.0,Retired,,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Max Verstappen,VER,Red Bull Racing,1.0,2.0,25.0,Finished,0 days 01:31:05.323000,False,True
+2024,23,Qatar Grand Prix,2024-12-01,Charles Leclerc,LEC,Ferrari,2.0,5.0,18.0,Finished,0 days 00:00:06.031000,False,True
+2024,23,Qatar Grand Prix,2024-12-01,Oscar Piastri,PIA,McLaren,3.0,4.0,15.0,Finished,0 days 00:00:06.819000,False,True
+2024,23,Qatar Grand Prix,2024-12-01,George Russell,RUS,Mercedes,4.0,1.0,12.0,Finished,0 days 00:00:14.104000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Pierre Gasly,GAS,Alpine,5.0,11.0,10.0,Finished,0 days 00:00:16.782000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Carlos Sainz,SAI,Ferrari,6.0,7.0,8.0,Finished,0 days 00:00:17.476000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Fernando Alonso,ALO,Aston Martin,7.0,8.0,6.0,Finished,0 days 00:00:19.867000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Guanyu Zhou,ZHO,Kick Sauber,8.0,12.0,4.0,Finished,0 days 00:00:25.360000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Kevin Magnussen,MAG,Haas F1 Team,9.0,10.0,2.0,Finished,0 days 00:00:32.177000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Lando Norris,NOR,McLaren,10.0,3.0,2.0,Finished,0 days 00:00:35.762000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Valtteri Bottas,BOT,Kick Sauber,11.0,13.0,0.0,Finished,0 days 00:00:50.243000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Lewis Hamilton,HAM,Mercedes,12.0,6.0,0.0,Finished,0 days 00:00:56.122000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Yuki Tsunoda,TSU,RB,13.0,14.0,0.0,Finished,0 days 00:01:01.100000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Liam Lawson,LAW,RB,14.0,17.0,0.0,Finished,0 days 00:01:02.656000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Alexander Albon,ALB,Williams,15.0,16.0,0.0,Lapped,0 days 00:00:12.969000,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Nico Hulkenberg,HUL,Haas F1 Team,16.0,18.0,0.0,Retired,,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Sergio Perez,PER,Red Bull Racing,17.0,9.0,0.0,Retired,,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Lance Stroll,STR,Aston Martin,18.0,15.0,0.0,Retired,,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Franco Colapinto,COL,Williams,19.0,19.0,0.0,Retired,,False,False
+2024,23,Qatar Grand Prix,2024-12-01,Esteban Ocon,OCO,Alpine,20.0,20.0,0.0,Retired,,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Lando Norris,NOR,McLaren,1.0,1.0,25.0,Finished,0 days 01:26:33.291000,False,True
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Carlos Sainz,SAI,Ferrari,2.0,3.0,18.0,Finished,0 days 00:00:05.832000,False,True
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Charles Leclerc,LEC,Ferrari,3.0,19.0,15.0,Finished,0 days 00:00:31.928000,False,True
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Lewis Hamilton,HAM,Mercedes,4.0,16.0,12.0,Finished,0 days 00:00:36.483000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,George Russell,RUS,Mercedes,5.0,6.0,10.0,Finished,0 days 00:00:37.538000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Max Verstappen,VER,Red Bull Racing,6.0,4.0,8.0,Finished,0 days 00:00:49.847000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Pierre Gasly,GAS,Alpine,7.0,5.0,6.0,Finished,0 days 00:01:12.560000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Nico Hulkenberg,HUL,Haas F1 Team,8.0,7.0,4.0,Finished,0 days 00:01:15.554000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Fernando Alonso,ALO,Aston Martin,9.0,8.0,2.0,Finished,0 days 00:01:22.373000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Oscar Piastri,PIA,McLaren,10.0,2.0,1.0,Finished,0 days 00:01:23.821000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Alexander Albon,ALB,Williams,11.0,18.0,0.0,Lapped,0 days 00:00:11.251000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Yuki Tsunoda,TSU,RB,12.0,11.0,0.0,Lapped,0 days 00:00:14.738000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Guanyu Zhou,ZHO,Kick Sauber,13.0,15.0,0.0,Lapped,0 days 00:00:17.304000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Lance Stroll,STR,Aston Martin,14.0,13.0,0.0,Lapped,0 days 00:00:18.473000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Jack Doohan,DOO,Alpine,15.0,17.0,0.0,Lapped,0 days 00:00:26.555000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Kevin Magnussen,MAG,Haas F1 Team,16.0,14.0,0.0,Lapped,0 days 00:01:17.597000,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Liam Lawson,LAW,RB,17.0,12.0,0.0,Retired,,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Valtteri Bottas,BOT,Kick Sauber,18.0,9.0,0.0,Retired,,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Franco Colapinto,COL,Williams,19.0,20.0,0.0,Retired,,False,False
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Sergio Perez,PER,Red Bull Racing,20.0,10.0,0.0,Retired,,False,False

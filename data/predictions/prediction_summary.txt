@@ -1,0 +1,24 @@
+======================================================================
+                    2026 F1 CHAMPIONSHIP PREDICTION
+======================================================================
+
+Model Test R²: 0.9750
+Model Test RMSE: {metrics['test_rmse']:. 2f} points
+
+TOP 10 PREDICTIONS:
+----------------------------------------------------------------------
+         Driver            Team  Predicted2026Points  PrevYearPoints  PredictedPosition  WinProbability
+ Max Verstappen Red Bull Racing           400.443015           399.0                  1       29.894811
+   Lando Norris         McLaren           343.307248           344.0                  2       16.883339
+Charles Leclerc         Ferrari           328.163888           327.0                  3       14.510807
+   Carlos Sainz         Ferrari           276.761863           262.0                  4        8.678714
+  Oscar Piastri         McLaren           261.708579           265.0                  5        7.465859
+ George Russell        Mercedes           225.574234           226.0                  6        5.201760
+ Lewis Hamilton        Mercedes           206.404567           207.0                  7        4.294351
+   Sergio Perez Red Bull Racing           139.520911           138.0                  8        2.200014
+Fernando Alonso    Aston Martin            66.670086            70.0                  9        1.061789
+ Oliver Bearman    Haas F1 Team            50.318965             7.0                 10        0.901626
+
+======================================================================
+PREDICTED CHAMPION: Max Verstappen
+======================================================================
