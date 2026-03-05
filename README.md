@@ -34,18 +34,36 @@ A machine learning project that predicts the 2026 Formula 1 Drivers' Championshi
 
 ### 🏆 2026 Predicted Champion: **Max Verstappen**
 
-| Pos | Driver          | Team            | Predicted Points | Win Probability |
+| Pos | Driver          | 2026 Team       | Predicted Points | Win Probability |
 | --- | --------------- | --------------- | ---------------- | --------------- |
 | 1   | Max Verstappen  | Red Bull Racing | 400              | 29.9%           |
 | 2   | Lando Norris    | McLaren         | 343              | 16.9%           |
 | 3   | Charles Leclerc | Ferrari         | 328              | 14.5%           |
-| 4   | Carlos Sainz    | Ferrari         | 277              | 8.7%            |
+| 4   | Carlos Sainz    | Williams †      | 277              | 8.7%            |
 | 5   | Oscar Piastri   | McLaren         | 262              | 7.5%            |
 | 6   | George Russell  | Mercedes        | 226              | 5.2%            |
-| 7   | Lewis Hamilton  | Mercedes        | 206              | 4.3%            |
-| 8   | Sergio Perez    | Red Bull Racing | 140              | 2.2%            |
+| 7   | Lewis Hamilton  | Ferrari †       | 206              | 4.3%            |
+| 8   | Sergio Perez    | (Red Bull) ‡    | 140              | 2.2%            |
 | 9   | Fernando Alonso | Aston Martin    | 67               | 1.1%            |
 | 10  | Oliver Bearman  | Haas F1 Team    | 50               | 0.9%            |
+
+**Notable 2026 driver moves (not reflected in training data):**
+
+| Driver           | Previous Team | 2026 Team          |
+| ---------------- | ------------- | ------------------ |
+| Lewis Hamilton   | Mercedes      | Ferrari            |
+| Carlos Sainz     | Ferrari       | Williams           |
+| Kimi Antonelli   | — (rookie)    | Mercedes           |
+| Liam Lawson      | RB            | Red Bull Racing    |
+| Esteban Ocon     | Alpine        | Haas F1 Team       |
+| Nico Hulkenberg  | Haas F1 Team  | Kick Sauber / Audi |
+| Jack Doohan      | — (reserve)   | Alpine             |
+| Franco Colapinto | Williams      | Alpine             |
+
+> † Team label corrected to 2026 reality; model predictions are based on driver performance history (2023–2025) at their previous constructors.  
+> ‡ Sergio Perez was replaced at Red Bull by **Liam Lawson** for 2026; his prediction reflects historical Red Bull-era performance.
+
+> **Limitation:** The model predicts based on a driver's historical performance regardless of constructor change. Actual results may differ significantly when a driver switches to a weaker or stronger team.
 
 ### Model Performance
 
