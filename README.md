@@ -240,7 +240,7 @@ An interactive web dashboard (`app.py`) provides three views:
 streamlit run app.py
 ```
 
-The app opens at `http://localhost:8501` by default.
+The app opens at `https://pauls-f1-lab.streamlit.app/` by default.
 
 ---
 
