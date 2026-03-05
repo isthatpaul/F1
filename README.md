@@ -1,6 +1,6 @@
 # F1 2026 Drivers' Championship Prediction
 
-A machine learning project that predicts the 2026 Formula 1 Drivers' Championship using historical race data loaded via [FastF1](https://theoehrly.github.io/Fast-F1/) and a linear regression model.
+A machine learning project that predicts the 2026 Formula 1 Drivers' Championship using historical race data loaded via [FastF1](https://theoehrly.github.io/Fast-F1/) and a linear regression model — with an interactive **Streamlit dashboard** for exploring predictions, model performance, and driver deep-dives.
 
 ---
 
@@ -12,6 +12,7 @@ A machine learning project that predicts the 2026 Formula 1 Drivers' Championshi
 - [Project Structure](#project-structure)
 - [Setup & Installation](#setup--installation)
 - [Usage](#usage)
+- [Streamlit Dashboard](#streamlit-dashboard)
 - [Model Details](#model-details)
 - [Tech Stack](#tech-stack)
 
@@ -114,6 +115,7 @@ The model achieves an **R² of 0.975 on the test set**, indicating strong predic
 
 ```
 F1/
+├── app.py                          # Streamlit interactive dashboard
 ├── data/
 │   ├── raw/                        # Raw FastF1 cached data
 │   ├── processed/
@@ -218,6 +220,26 @@ Predictions are saved to `data/predictions/2026_championship_predictions.csv`.
 
 ---
 
+## Streamlit Dashboard
+
+An interactive web dashboard (`app.py`) provides three views:
+
+| Page                        | Description                                                                        |
+| --------------------------- | ---------------------------------------------------------------------------------- |
+| 🏆 Championship Predictions | Bar chart of predicted points, win probability pie chart, and full standings table |
+| 📊 Model Performance        | Train vs test metrics (R², RMSE, MAE) and feature importance chart                 |
+| 🔍 Driver Deep Dive         | Per-driver breakdown with radar/detail charts                                      |
+
+### Run the dashboard
+
+```bash
+streamlit run app.py
+```
+
+The app opens at `http://localhost:8501` by default.
+
+---
+
 ## Model Details
 
 **Algorithm:** Linear Regression (scikit-learn `LinearRegression`)
@@ -255,6 +277,7 @@ Predictions are saved to `data/predictions/2026_championship_predictions.csv`.
 | [matplotlib](https://matplotlib.org/)          | Static visualisation      |
 | [seaborn](https://seaborn.pydata.org/)         | Statistical visualisation |
 | [plotly](https://plotly.com/python/)           | Interactive charts        |
+| [Streamlit](https://streamlit.io/)             | Interactive web dashboard |
 
 ---
 
