@@ -1,5 +1,7 @@
 # F1 2026 Drivers' Championship Prediction
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pauls-f1-lab.streamlit.app)
+
 A machine learning project that predicts the 2026 Formula 1 Drivers' Championship using historical race data loaded via [FastF1](https://theoehrly.github.io/Fast-F1/) and a linear regression model — with an interactive **Streamlit dashboard** for exploring predictions, model performance, and driver deep-dives.
 
 ---
@@ -221,6 +223,8 @@ Predictions are saved to `data/predictions/2026_championship_predictions.csv`.
 ---
 
 ## Streamlit Dashboard
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pauls-f1-lab.streamlit.app)
 
 An interactive web dashboard (`app.py`) provides three views:
 
